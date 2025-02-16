@@ -176,3 +176,6 @@
 [16Feb2025 06:01:22.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:41097] logged in with entity id 521 at (514.2605708159368, 76.0, -1272.9026496571587)
 [16Feb2025 06:01:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [16Feb2025 06:05:10.132] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[16Feb2025 06:19:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Gave 50 [Leather] to Sl44tx]
+[16Feb2025 06:28:13.261] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Feb2025 06:48:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [When in Rome]
