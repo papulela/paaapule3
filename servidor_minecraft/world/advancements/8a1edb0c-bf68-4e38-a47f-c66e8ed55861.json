@@ -3786,6 +3786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-16 23:52:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-16 23:44:01 +0000"
