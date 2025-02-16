@@ -3655,5 +3655,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-02-16 04:24:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-16 04:20:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
