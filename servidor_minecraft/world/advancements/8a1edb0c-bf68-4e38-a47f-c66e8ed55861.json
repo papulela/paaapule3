@@ -3661,6 +3661,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-16 05:26:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
       "has_item": "2025-02-16 04:38:22 +0000"
@@ -3670,6 +3676,12 @@
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-02-16 04:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-16 05:03:17 +0000"
     },
     "done": true
   },

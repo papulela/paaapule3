@@ -179,3 +179,6 @@
 [16Feb2025 04:43:25.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7967, l='ServerLevel[world]', x=735.30, y=60.41, z=-1243.41] died, message: 'Villager was slain by Zombie'
 [16Feb2025 04:59:00.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8019, l='ServerLevel[world]', x=736.62, y=61.92, z=-1241.40] died, message: 'Villager was slain by Zombie'
 [16Feb2025 04:59:25.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8018, l='ServerLevel[world]', x=763.83, y=61.00, z=-1244.48] died, message: 'Villager was slain by Zombie'
+[16Feb2025 05:17:08.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7974, l='ServerLevel[world]', x=772.34, y=76.50, z=-1285.42] died, message: 'Fisherman hit the ground too hard'
+[16Feb2025 05:17:09.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7972, l='ServerLevel[world]', x=726.60, y=59.00, z=-1254.61] died, message: 'Villager was slain by Zombie Villager'
+[16Feb2025 05:26:54.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [What a Deal!]
