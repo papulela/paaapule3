@@ -187,3 +187,6 @@
 [16Feb2025 23:21:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Survival Mode]
 [16Feb2025 23:33:57.824] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
 [16Feb2025 23:35:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Super Creeps]
+[16Feb2025 23:43:27.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12566, l='ServerLevel[world]', x=-844.83, y=85.01, z=-1927.70] died: Dinnerbone was slain by Sl44tx
+[16Feb2025 23:43:39.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12048, l='ServerLevel[world]', x=-846.16, y=85.01, z=-1927.68] died: Dinnerbone was slain by Sl44tx
+[16Feb2025 23:44:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Spooky Scary Skeleton]
