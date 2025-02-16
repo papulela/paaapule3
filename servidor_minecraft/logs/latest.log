@@ -176,3 +176,6 @@
 [16Feb2025 04:02:56.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:45743] logged in with entity id 521 at (1921.372224139074, 27.0, -1587.3430852247795)
 [16Feb2025 04:02:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [16Feb2025 04:20:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [They Have a Cave Troll!]
+[16Feb2025 04:43:25.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7967, l='ServerLevel[world]', x=735.30, y=60.41, z=-1243.41] died, message: 'Villager was slain by Zombie'
+[16Feb2025 04:59:00.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8019, l='ServerLevel[world]', x=736.62, y=61.92, z=-1241.40] died, message: 'Villager was slain by Zombie'
+[16Feb2025 04:59:25.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8018, l='ServerLevel[world]', x=763.83, y=61.00, z=-1244.48] died, message: 'Villager was slain by Zombie'
