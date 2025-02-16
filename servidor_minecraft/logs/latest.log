@@ -182,3 +182,15 @@
 [16Feb2025 05:17:08.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7974, l='ServerLevel[world]', x=772.34, y=76.50, z=-1285.42] died, message: 'Fisherman hit the ground too hard'
 [16Feb2025 05:17:09.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7972, l='ServerLevel[world]', x=726.60, y=59.00, z=-1254.61] died, message: 'Villager was slain by Zombie Villager'
 [16Feb2025 05:26:54.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [What a Deal!]
+[16Feb2025 05:55:02.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Feb2025 05:55:02.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 05:55:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 05:55:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 05:55:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Feb2025 05:55:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Feb2025 05:55:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Feb2025 05:55:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Feb2025 05:55:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 05:55:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 05:55:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 05:55:03.118] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
