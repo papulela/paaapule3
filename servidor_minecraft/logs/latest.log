@@ -179,3 +179,6 @@
 [16Feb2025 23:01:11.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx fell from a high place
 [16Feb2025 23:01:11.837] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_16.02.2025-23.01.11.dat
 [16Feb2025 23:01:11.880] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[16Feb2025 23:09:59.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Sneak 100]
+[16Feb2025 23:14:12.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Spectator Mode]
+[16Feb2025 23:17:16.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]

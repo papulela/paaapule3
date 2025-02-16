@@ -3749,5 +3749,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-02-16 23:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-16 23:09:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
