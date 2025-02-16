@@ -185,3 +185,5 @@
 [16Feb2025 23:19:13.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Survival Mode]
 [16Feb2025 23:20:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]
 [16Feb2025 23:21:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Survival Mode]
+[16Feb2025 23:33:57.824] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Feb2025 23:35:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Super Creeps]

@@ -34,6 +34,7 @@
       "minecraft:deep_ocean": "2025-02-13 00:45:20 +0000",
       "minecraft:frozen_river": "2025-02-13 00:51:56 +0000",
       "minecraft:sunflower_plains": "2025-02-16 06:29:39 +0000",
+      "minecraft:cherry_grove": "2025-02-16 23:29:50 +0000",
       "minecraft:beach": "2025-02-12 04:19:31 +0000",
       "minecraft:river": "2025-02-12 05:33:02 +0000",
       "minecraft:snowy_plains": "2025-02-13 00:52:06 +0000",
@@ -3746,6 +3747,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-02-16 07:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 23:29:59 +0000"
     },
     "done": true
   },
