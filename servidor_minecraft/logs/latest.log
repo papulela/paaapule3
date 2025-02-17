@@ -1,46 +1,188 @@
-[17Feb2025 00:00:02.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13714, l='ServerLevel[world]', x=-859.47, y=109.01, z=-1946.66] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:00:08.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/12569, l='ServerLevel[world]', x=-860.04, y=109.01, z=-1944.17] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:00:42.350] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
-[17Feb2025 00:00:42.353] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
-[17Feb2025 00:00:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx drowned whilst trying to escape Wither Skeleton
-[17Feb2025 00:00:58.599] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_17.02.2025-00.00.58.dat
-[17Feb2025 00:00:58.604] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
-[17Feb2025 00:03:50.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15806, l='ServerLevel[world]', x=-851.46, y=109.01, z=-1923.08] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:03:54.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15903, l='ServerLevel[world]', x=-847.75, y=109.01, z=-1917.64] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:03:56.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15902, l='ServerLevel[world]', x=-851.77, y=109.01, z=-1917.30] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:03:58.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15908, l='ServerLevel[world]', x=-849.09, y=109.01, z=-1917.65] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:04:00.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15909, l='ServerLevel[world]', x=-852.68, y=109.01, z=-1917.30] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:09:51.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Race Against The Clock]
-[17Feb2025 00:16:53.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15811, l='ServerLevel[world]', x=-855.70, y=117.01, z=-1930.30] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:16:56.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15815, l='ServerLevel[world]', x=-846.65, y=117.01, z=-1936.68] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:17:22.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17821, l='ServerLevel[world]', x=-853.86, y=117.01, z=-1934.57] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:17:50.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15836, l='ServerLevel[world]', x=-845.30, y=119.01, z=-1933.70] died: Dinnerbone suffocated in a wall
-[17Feb2025 00:18:07.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17921, l='ServerLevel[world]', x=-850.57, y=117.01, z=-1936.04] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:18:12.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17924, l='ServerLevel[world]', x=-846.17, y=117.01, z=-1936.19] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:18:16.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17923, l='ServerLevel[world]', x=-846.14, y=117.01, z=-1937.97] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:18:18.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17922, l='ServerLevel[world]', x=-845.30, y=117.01, z=-1936.85] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:18:22.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17820, l='ServerLevel[world]', x=-845.75, y=117.01, z=-1931.85] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:18:26.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15890, l='ServerLevel[world]', x=-845.30, y=117.01, z=-1929.44] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:18:28.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16137, l='ServerLevel[world]', x=-845.35, y=117.01, z=-1937.54] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:24:48.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/18769, l='ServerLevel[world]', x=-860.06, y=125.01, z=-1946.96] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:24:57.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17754, l='ServerLevel[world]', x=-860.43, y=125.01, z=-1946.06] died: Dinnerbone was shot by Dinnerbone
-[17Feb2025 00:25:24.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17753, l='ServerLevel[world]', x=-861.31, y=125.01, z=-1940.30] died: Dinnerbone was shot by Sl44tx
-[17Feb2025 00:28:13.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/18091, l='ServerLevel[world]', x=-849.31, y=135.01, z=-1930.95] died: Dinnerbone suffocated in a wall
-[17Feb2025 00:29:04.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=137, z=-1920} BlockPos{x=-861, y=136, z=-1920}
-[17Feb2025 00:30:01.349] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
-[17Feb2025 00:30:01.349] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
-[17Feb2025 00:36:33.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
-[17Feb2025 00:36:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
-[17Feb2025 00:36:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17Feb2025 00:36:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17Feb2025 00:36:37.419] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/20823, l='ServerLevel[world]', x=-832.41, y=80.00, z=-1920.28] as it would cause deadlock
-[17Feb2025 00:36:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17Feb2025 00:36:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17Feb2025 00:36:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17Feb2025 00:36:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17Feb2025 00:36:37.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17Feb2025 00:36:37.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17Feb2025 00:36:37.492] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17Feb2025 03:12:10.953] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Feb2025 03:12:11.027] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[17Feb2025 03:12:12.317] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Feb2025 03:12:12.385] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/paaapule3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17Feb2025 03:12:12.725] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Feb2025 03:12:12.726] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Feb2025 03:12:12.728] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Feb2025 03:12:12.729] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Feb2025 03:12:12.993] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[17Feb2025 03:12:15.568] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Feb2025 03:12:15.794] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[17Feb2025 03:12:15.795] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Feb2025 03:12:15.825] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2025 03:12:15.987] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 1 override(s) found
+[17Feb2025 03:12:15.987] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[17Feb2025 03:12:15.988] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[17Feb2025 03:12:16.027] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[17Feb2025 03:12:16.324] [main/INFO] [Puzzles Lib/]: Loading 49 mods:
+	- alexscaves 2.0.2
+	- alexsmobs 1.22.9
+	- ambientsounds 6.1.4
+	- architectury 9.2.14
+	- artifacts 9.5.13
+		\-- expandability 9.0.4
+	- badpackets 0.4.3
+	- balm 7.3.14
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- betterdungeons 1.20-Forge-4.0.4
+	- citadel 2.6.1
+	- cloth_config 11.1.136
+	- comforts 6.4.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- creativecore 2.12.31
+	- curios 5.11.1+1.20.1
+	- dungeoncrawl 2.3.15
+	- dungeons_arise 2.1.58-1.20.x
+	- dynamiclights 1.20.1.2
+	- easymagic 8.0.1
+	- fallingtree 4.3.4
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- iceandfire 2.1.13-1.20.1
+	- infernalmobs 1.20.1.6
+	- inventoryhud 3.4.26
+	- jei 15.20.0.106
+	- jeiintegration 10.0.0
+	- journeymap 5.10.3
+	- ksyxis 1.3.3
+	- minecraft 1.20.1
+	- modernfix 5.20.2+mc1.20.1
+		\-- mixinextras 0.4.1
+	- nerb 0.4.1
+	- octolib 0.4.2
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- sophisticatedbackpacks 3.23.4.1196
+	- sophisticatedcore 1.2.8.864
+	- starlight 1.1.2+forge.1cda73c
+	- takesapillage 1.0.3
+	- terralith 2.5.4
+	- tombstone 8.9.0
+	- trashslot 15.1.1
+	- travelersbackpack 9.1.29
+	- walljump 1.20.1-1.3.2-forge
+		\-- configlibtxf 4.2.6-forge
+	- wthit 8.16.1
+		\-- waila 8.16.1
+	- yungsapi 1.20-Forge-4.0.6
+[17Feb2025 03:12:18.819] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17Feb2025 03:12:19.677] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.28 s after launch)
+[17Feb2025 03:12:19.865] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17Feb2025 03:12:19.866] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17Feb2025 03:12:20.001] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17Feb2025 03:12:20.002] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17Feb2025 03:12:21.992] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2310 milliseconds
+[17Feb2025 03:12:25.620] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[17Feb2025 03:12:26.248] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[17Feb2025 03:12:26.778] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17Feb2025 03:12:26.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[17Feb2025 03:12:26.868] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[17Feb2025 03:12:26.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[17Feb2025 03:12:26.927] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[17Feb2025 03:12:26.929] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[17Feb2025 03:12:26.930] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[17Feb2025 03:12:26.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[17Feb2025 03:12:26.943] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[17Feb2025 03:12:27.237] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Feb2025 03:12:27.237] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Feb2025 03:12:27.459] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[17Feb2025 03:12:27.459] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[17Feb2025 03:12:27.461] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (2 ms)
+[17Feb2025 03:12:27.676] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[17Feb2025 03:12:27.703] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[17Feb2025 03:12:30.628] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[17Feb2025 03:12:31.194] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[17Feb2025 03:12:31.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[17Feb2025 03:12:31.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[17Feb2025 03:12:31.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[17Feb2025 03:12:31.395] [main/INFO] [journeymap/]: Initializing Packet Registries
+[17Feb2025 03:12:31.441] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17Feb2025 03:12:31.441] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17Feb2025 03:12:31.441] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17Feb2025 03:12:31.442] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17Feb2025 03:12:31.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[17Feb2025 03:12:31.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17Feb2025 03:12:31.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.29 Target: null
+[17Feb2025 03:12:31.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[17Feb2025 03:12:31.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[17Feb2025 03:12:31.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Feb2025 03:12:31.867] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[17Feb2025 03:12:31.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.29
+[17Feb2025 03:12:31.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[17Feb2025 03:12:31.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[17Feb2025 03:12:31.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[17Feb2025 03:12:31.921] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[17Feb2025 03:12:31.931] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[17Feb2025 03:12:31.943] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[17Feb2025 03:12:31.944] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[17Feb2025 03:12:31.946] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[17Feb2025 03:12:31.969] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[17Feb2025 03:12:32.025] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
+[17Feb2025 03:12:32.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[17Feb2025 03:12:32.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[17Feb2025 03:12:32.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17Feb2025 03:12:32.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[17Feb2025 03:12:32.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[17Feb2025 03:12:32.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[17Feb2025 03:12:32.577] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Feb2025 03:12:32.698] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[17Feb2025 03:12:33.144] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23183!/assets/.mcassetsroot' uses unexpected schema
+[17Feb2025 03:12:33.145] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23183!/data/.mcassetsroot' uses unexpected schema
+[17Feb2025 03:12:36.364] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[17Feb2025 03:12:36.571] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[17Feb2025 03:12:37.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[17Feb2025 03:12:37.354] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2330 advancements
+[17Feb2025 03:12:37.357] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[17Feb2025 03:12:37.358] [main/INFO] [Dungeon Crawl/]: Loading data...
+[17Feb2025 03:12:37.729] [main/INFO] [Dungeon Crawl/]: Done.
+[17Feb2025 03:12:37.751] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[17Feb2025 03:12:37.757] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[17Feb2025 03:12:38.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Feb2025 03:12:38.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Feb2025 03:12:38.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Feb2025 03:12:38.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Feb2025 03:12:38.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Feb2025 03:12:38.225] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Feb2025 03:12:38.327] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17Feb2025 03:12:38.332] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[17Feb2025 03:12:38.526] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17Feb2025 03:12:38.526] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[17Feb2025 03:12:38.527] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[17Feb2025 03:12:38.527] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17Feb2025 03:12:38.529] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[17Feb2025 03:12:38.530] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17Feb2025 03:12:38.530] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[17Feb2025 03:12:38.530] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[17Feb2025 03:12:38.530] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17Feb2025 03:12:38.531] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[17Feb2025 03:12:38.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Feb2025 03:12:39.639] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[17Feb2025 03:12:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Feb2025 03:12:39.783] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 143 ms
+[17Feb2025 03:12:39.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.458s)! For help, type "help"
+[17Feb2025 03:12:39.829] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Feb2025 03:12:39.875] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[17Feb2025 03:12:39.880] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[17Feb2025 03:12:39.880] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[17Feb2025 03:12:39.893] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[17Feb2025 03:12:39.893] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[17Feb2025 03:12:39.894] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[17Feb2025 03:12:39.894] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[17Feb2025 03:12:39.895] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/paaapule3/servidor_minecraft/./config/infernalmobs.cfg
+[17Feb2025 03:12:39.896] [Server thread/WARN] [ModernFix/]: Dedicated server took 32.499 seconds to load
+[17Feb2025 03:13:11.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4db583c2[id=<null>,name=Sl44tx,properties={},legacy=false] (/127.98.208.129:55761) lost connection: Disconnected
+[17Feb2025 03:13:14.148] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
+[17Feb2025 03:13:16.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:50773] logged in with entity id 521 at (-843.7624999880791, 177.0, -1917.7740862720914)
+[17Feb2025 03:13:16.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
+[17Feb2025 03:13:18.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[17Feb2025 03:14:25.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved too quickly! 0.0,-11.523684986416669,0.0
+[17Feb2025 03:14:26.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx fell from a high place
+[17Feb2025 03:14:26.069] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_17.02.2025-03.14.26.dat
+[17Feb2025 03:14:26.104] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[17Feb2025 03:15:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Where Is The Stone Pen?]
+[17Feb2025 03:17:27.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/1437, l='ServerLevel[world]', x=-854.70, y=196.01, z=-1939.86] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 03:20:08.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx fell from a high place
+[17Feb2025 03:20:08.165] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_17.02.2025-03.20.08.dat
+[17Feb2025 03:20:08.169] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
