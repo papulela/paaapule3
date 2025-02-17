@@ -10,3 +10,37 @@
 [17Feb2025 00:03:56.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15902, l='ServerLevel[world]', x=-851.77, y=109.01, z=-1917.30] died: Dinnerbone was shot by Sl44tx
 [17Feb2025 00:03:58.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15908, l='ServerLevel[world]', x=-849.09, y=109.01, z=-1917.65] died: Dinnerbone was shot by Sl44tx
 [17Feb2025 00:04:00.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15909, l='ServerLevel[world]', x=-852.68, y=109.01, z=-1917.30] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:09:51.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Race Against The Clock]
+[17Feb2025 00:16:53.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15811, l='ServerLevel[world]', x=-855.70, y=117.01, z=-1930.30] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:16:56.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15815, l='ServerLevel[world]', x=-846.65, y=117.01, z=-1936.68] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:17:22.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17821, l='ServerLevel[world]', x=-853.86, y=117.01, z=-1934.57] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:17:50.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15836, l='ServerLevel[world]', x=-845.30, y=119.01, z=-1933.70] died: Dinnerbone suffocated in a wall
+[17Feb2025 00:18:07.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17921, l='ServerLevel[world]', x=-850.57, y=117.01, z=-1936.04] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:18:12.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17924, l='ServerLevel[world]', x=-846.17, y=117.01, z=-1936.19] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:18:16.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17923, l='ServerLevel[world]', x=-846.14, y=117.01, z=-1937.97] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:18:18.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17922, l='ServerLevel[world]', x=-845.30, y=117.01, z=-1936.85] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:18:22.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17820, l='ServerLevel[world]', x=-845.75, y=117.01, z=-1931.85] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:18:26.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15890, l='ServerLevel[world]', x=-845.30, y=117.01, z=-1929.44] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:18:28.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16137, l='ServerLevel[world]', x=-845.35, y=117.01, z=-1937.54] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:24:48.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/18769, l='ServerLevel[world]', x=-860.06, y=125.01, z=-1946.96] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:24:57.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17754, l='ServerLevel[world]', x=-860.43, y=125.01, z=-1946.06] died: Dinnerbone was shot by Dinnerbone
+[17Feb2025 00:25:24.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17753, l='ServerLevel[world]', x=-861.31, y=125.01, z=-1940.30] died: Dinnerbone was shot by Sl44tx
+[17Feb2025 00:28:13.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/18091, l='ServerLevel[world]', x=-849.31, y=135.01, z=-1930.95] died: Dinnerbone suffocated in a wall
+[17Feb2025 00:29:04.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=137, z=-1920} BlockPos{x=-861, y=136, z=-1920}
+[17Feb2025 00:30:01.349] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
+[17Feb2025 00:30:01.349] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[17Feb2025 00:36:33.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[17Feb2025 00:36:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[17Feb2025 00:36:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Feb2025 00:36:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Feb2025 00:36:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Feb2025 00:36:37.419] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/20823, l='ServerLevel[world]', x=-832.41, y=80.00, z=-1920.28] as it would cause deadlock
+[17Feb2025 00:36:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Feb2025 00:36:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Feb2025 00:36:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Feb2025 00:36:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Feb2025 00:36:37.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Feb2025 00:36:37.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Feb2025 00:36:37.492] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
