@@ -186,3 +186,15 @@
 [17Feb2025 03:20:08.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx fell from a high place
 [17Feb2025 03:20:08.165] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_17.02.2025-03.20.08.dat
 [17Feb2025 03:20:08.169] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[17Feb2025 03:25:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Feb2025 03:25:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Feb2025 03:25:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Feb2025 03:25:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Feb2025 03:25:51.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Feb2025 03:25:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Feb2025 03:25:51.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Feb2025 03:25:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Feb2025 03:25:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Feb2025 03:25:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Feb2025 03:25:51.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Feb2025 03:25:51.423] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
