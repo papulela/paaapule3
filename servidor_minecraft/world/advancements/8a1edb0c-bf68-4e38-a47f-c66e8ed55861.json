@@ -3936,5 +3936,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-19 17:19:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
