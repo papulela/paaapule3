@@ -249,3 +249,18 @@
 [22Feb2025 07:42:42.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:36671] logged in with entity id 18862 at (-524.3956631995558, 110.0, -3213.7707363567597)
 [22Feb2025 07:42:42.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [22Feb2025 08:05:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Cobweb Entanglement]
+[22Feb2025 08:09:48.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Feb2025 08:10:20.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Stopping the server]
+[22Feb2025 08:10:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 08:10:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 08:10:20.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Server closed
+[22Feb2025 08:10:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[22Feb2025 08:10:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 08:10:20.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Feb2025 08:10:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Feb2025 08:10:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Feb2025 08:10:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Feb2025 08:10:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 08:10:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 08:10:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 08:10:20.541] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
