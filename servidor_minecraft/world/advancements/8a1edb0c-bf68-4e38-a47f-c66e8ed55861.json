@@ -511,6 +511,7 @@
       "golden_carrot": "2025-02-15 04:11:39 +0000",
       "cooked_rabbit": "2025-02-15 00:18:38 +0000",
       "cooked_chicken": "2025-02-12 05:42:48 +0000",
+      "enchanted_golden_apple": "2025-02-22 06:55:38 +0000",
       "cooked_salmon": "2025-02-14 18:25:20 +0000",
       "carrot": "2025-02-12 04:50:39 +0000"
     },
@@ -968,6 +969,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-22 07:16:45 +0000",
       "minecraft:skeleton": "2025-02-12 05:46:41 +0000",
       "minecraft:vindicator": "2025-02-19 18:23:04 +0000",
       "minecraft:spider": "2025-02-12 04:45:01 +0000",

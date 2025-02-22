@@ -178,3 +178,8 @@
 [22Feb2025 06:44:59.600] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
 [22Feb2025 06:55:37.452] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
 [22Feb2025 06:55:37.461] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[22Feb2025 07:02:05.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6996, l='ServerLevel[world]', x=-1164.50, y=77.00, z=-2974.50]
+[22Feb2025 07:02:05.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6997, l='ServerLevel[world]', x=-1163.50, y=75.00, z=-2969.50]
+[22Feb2025 07:14:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx was killed by magic
+[22Feb2025 07:14:18.592] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_22.02.2025-07.14.18.dat
+[22Feb2025 07:14:18.602] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
