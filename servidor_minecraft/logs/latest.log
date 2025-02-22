@@ -176,3 +176,5 @@
 [22Feb2025 06:38:09.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:47297] logged in with entity id 521 at (-704.6999999880791, 132.0, -1798.3904706176274)
 [22Feb2025 06:38:09.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [22Feb2025 06:44:59.600] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Feb2025 06:55:37.452] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
+[22Feb2025 06:55:37.461] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
