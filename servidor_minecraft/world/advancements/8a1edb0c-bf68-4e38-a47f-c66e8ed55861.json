@@ -4368,15 +4368,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-02-23 05:40:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2025-02-23 05:21:15 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-02-23 05:40:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
       "has_dragonscale_blue": "2025-02-23 05:21:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-02-23 05:40:03 +0000"
     },
     "done": true
   },
@@ -4389,6 +4407,18 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-02-23 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-23 05:40:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-02-23 05:40:03 +0000"
     },
     "done": true
   },
