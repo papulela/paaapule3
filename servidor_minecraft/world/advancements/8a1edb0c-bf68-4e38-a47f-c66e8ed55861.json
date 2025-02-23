@@ -47,6 +47,7 @@
       "minecraft:dripstone_caves": "2025-02-12 04:55:52 +0000",
       "minecraft:snowy_taiga": "2025-02-13 19:08:31 +0000",
       "minecraft:grove": "2025-02-19 17:39:59 +0000",
+      "minecraft:swamp": "2025-02-23 04:47:54 +0000",
       "minecraft:jagged_peaks": "2025-02-22 06:43:43 +0000",
       "minecraft:cold_ocean": "2025-02-13 00:46:00 +0000",
       "minecraft:forest": "2025-02-16 06:32:45 +0000",
@@ -4331,15 +4332,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-02-22 07:58:31 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-02-22 08:05:31 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+  "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
-      "has_dragonscales_blue": "2025-02-22 07:58:31 +0000"
+      "killed": "2025-02-23 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-02-23 04:17:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-23 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-02-23 04:33:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-02-23 05:21:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-02-23 05:21:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-02-23 05:25:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-23 05:10:24 +0000"
     },
     "done": true
   },
