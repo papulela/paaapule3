@@ -4705,6 +4705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:45:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-02-24 22:33:40 +0000"
@@ -4750,6 +4756,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-24 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:45:05 +0000"
     },
     "done": true
   },
@@ -4867,6 +4879,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-24 23:52:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-02-24 23:17:06 +0000"
@@ -4978,6 +4996,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-24 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 23:45:05 +0000"
     },
     "done": true
   },
