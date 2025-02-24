@@ -4507,6 +4507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-02-24 23:01:00 +0000"
@@ -4516,6 +4522,12 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-24 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
     },
     "done": true
   },
@@ -4693,6 +4705,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_axe": {
     "criteria": {
       "has_item": "2025-02-24 23:01:00 +0000"
@@ -4825,6 +4843,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-24 23:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-24 22:16:49 +0000"
@@ -4840,6 +4864,18 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2025-02-24 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-24 23:10:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
     },
     "done": true
   },
@@ -4879,6 +4915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-24 22:33:40 +0000"
@@ -4894,6 +4936,12 @@
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2025-02-24 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-02-24 23:10:20 +0000"
     },
     "done": true
   },

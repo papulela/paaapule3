@@ -190,3 +190,9 @@
 [24Feb2025 22:57:36.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Rigged from the Start]
 [24Feb2025 23:01:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [The Only Good Bug...]
 [24Feb2025 23:03:13.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Its Like Printing my Own Money!]
+[24Feb2025 23:06:46.427] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Feb2025 23:06:49.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved too quickly! -1.5931433574821767,-1.0,-9.997396547728385
+[24Feb2025 23:06:49.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[24Feb2025 23:07:17.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Feb2025 23:07:18.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Feb2025 23:08:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has completed the challenge [Village Defender]
