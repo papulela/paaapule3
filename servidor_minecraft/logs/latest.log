@@ -221,3 +221,4 @@
 [26Feb2025 06:22:57.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
 [26Feb2025 06:23:00.846] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41914, l='ServerLevel[world]', x=139.00, y=31.00, z=-249.00] as it would cause deadlock
 [26Feb2025 06:23:05.075] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42060, l='ServerLevel[world]', x=-47.00, y=31.00, z=-43.00] as it would cause deadlock
+[26Feb2025 06:33:54.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42361, l='ServerLevel[world]', x=759.79, y=63.00, z=-1314.96] died, message: 'Villager was slain by Zombie'
