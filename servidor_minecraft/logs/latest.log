@@ -245,3 +245,17 @@
 [26Feb2025 06:58:39.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has completed the challenge [Master Siphoner]
 [26Feb2025 07:04:13.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.3868980479805168
 [26Feb2025 07:04:24.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.39400977930022746
+[26Feb2025 07:06:03.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Stopping the server]
+[26Feb2025 07:06:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Feb2025 07:06:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Feb2025 07:06:03.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Server closed
+[26Feb2025 07:06:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[26Feb2025 07:06:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Feb2025 07:06:03.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Feb2025 07:06:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Feb2025 07:06:03.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Feb2025 07:06:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Feb2025 07:06:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Feb2025 07:06:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Feb2025 07:06:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Feb2025 07:06:03.390] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
