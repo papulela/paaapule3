@@ -517,6 +517,7 @@
       "bread": "2025-02-12 05:50:01 +0000",
       "golden_apple": "2025-02-13 01:03:34 +0000",
       "cookie": "2025-02-14 01:39:16 +0000",
+      "glow_berries": "2025-02-26 06:54:18 +0000",
       "golden_carrot": "2025-02-15 04:11:39 +0000",
       "cooked_rabbit": "2025-02-15 00:18:38 +0000",
       "cooked_chicken": "2025-02-12 05:42:48 +0000",
@@ -5038,6 +5039,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 06:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-26 06:22:58 +0000"
@@ -5128,6 +5135,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 06:58:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-26 05:58:33 +0000"
@@ -5137,6 +5150,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-26 06:22:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 06:50:36 +0000"
     },
     "done": true
   },

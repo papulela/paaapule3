@@ -240,3 +240,8 @@
 [26Feb2025 06:43:05.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.8266046038987056
 [26Feb2025 06:44:14.602] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
 [26Feb2025 06:44:14.604] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[26Feb2025 06:48:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Stolen Magic]
+[26Feb2025 06:50:36.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has reached the goal [Magic Siphoner]
+[26Feb2025 06:58:39.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has completed the challenge [Master Siphoner]
+[26Feb2025 07:04:13.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.3868980479805168
+[26Feb2025 07:04:24.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.39400977930022746
