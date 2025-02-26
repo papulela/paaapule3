@@ -177,3 +177,32 @@
 [26Feb2025 04:54:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [26Feb2025 04:54:34.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [26Feb2025 04:54:55.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/545, l='ServerLevel[world]', x=-1460.41, y=72.00, z=2441.99] died, message: 'Fisherman was shot by Pillager'
+[26Feb2025 05:29:58.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [We do a little trolling...]
+[26Feb2025 05:30:09.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [It's an Emu!!!]
+[26Feb2025 05:41:21.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has reached the goal [Great minds think alike]
+[26Feb2025 05:58:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Best Friends Forever]
+[26Feb2025 05:58:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Jungle Fliers]
+[26Feb2025 05:58:44.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.6427396084551523
+[26Feb2025 05:58:44.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.6427396084551523
+[26Feb2025 06:01:31.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.42005371804717323
+[26Feb2025 06:01:32.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.7143207998453175
+[26Feb2025 06:02:27.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! 4.079209353012175,0.0,-9.996339682349117
+[26Feb2025 06:03:16.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.35699259255757665
+[26Feb2025 06:03:36.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.8305085148805409
+[26Feb2025 06:03:37.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.2958247900623602
+[26Feb2025 06:03:54.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! 3.2967896815541735,0.0,-10.279701546421165
+[26Feb2025 06:03:54.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! 3.550119953409535,0.0,-11.070594330324866
+[26Feb2025 06:04:31.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Feb2025 06:04:32.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Feb2025 06:04:59.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Feb2025 06:06:59.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.5617428467849539
+[26Feb2025 06:07:00.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! -2.6239662155207952,9.586335876911733,3.635140691175252
+[26Feb2025 06:07:00.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! -3.0782614394994425,11.220039223647348,4.266778725426661
+[26Feb2025 06:07:00.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved too quickly! -3.5357701248119042,12.860965578448386,4.903729916364455
+[26Feb2025 06:07:07.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.6200156023941611
+[26Feb2025 06:07:08.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.8024258151517645
+[26Feb2025 06:07:09.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.814822037629487
+[26Feb2025 06:07:11.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.8302128042182917
+[26Feb2025 06:07:12.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.8303271751604231
+[26Feb2025 06:07:15.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Sl44tx) moved wrongly! 0.7515595003673787
+[26Feb2025 06:10:34.103] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
