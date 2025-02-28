@@ -5324,6 +5324,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-02-28 04:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-02-28 03:58:59 +0000"
