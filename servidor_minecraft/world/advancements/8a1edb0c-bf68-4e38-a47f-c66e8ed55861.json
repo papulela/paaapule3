@@ -65,6 +65,7 @@
       "minecraft:jungle": "2025-02-23 07:48:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-19 17:38:15 +0000",
       "minecraft:snowy_beach": "2025-02-13 00:52:12 +0000",
+      "minecraft:windswept_savanna": "2025-02-28 00:00:37 +0000",
       "minecraft:warm_ocean": "2025-02-23 08:01:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-26 06:01:59 +0000",
       "minecraft:flower_forest": "2025-02-12 04:27:34 +0000",
@@ -5242,6 +5243,66 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-27 23:37:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_yellow": {
+    "criteria": {
+      "has_item": "2025-02-28 00:00:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_red": {
+    "criteria": {
+      "has_item": "2025-02-28 00:00:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_white": {
+    "criteria": {
+      "has_item": "2025-02-28 00:00:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-02-28 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-02-28 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-02-28 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-28 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-02-28 00:01:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-02-28 00:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-28 00:09:21 +0000"
     },
     "done": true
   },
