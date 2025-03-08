@@ -39,6 +39,7 @@
       "minecraft:frozen_river": "2025-02-13 00:51:56 +0000",
       "minecraft:sunflower_plains": "2025-02-16 06:29:39 +0000",
       "minecraft:cherry_grove": "2025-02-16 23:29:50 +0000",
+      "minecraft:birch_forest": "2025-02-28 23:23:53 +0000",
       "minecraft:bamboo_jungle": "2025-02-19 17:47:40 +0000",
       "minecraft:wooded_badlands": "2025-02-26 05:29:54 +0000",
       "minecraft:badlands": "2025-02-23 07:57:07 +0000",
@@ -61,6 +62,7 @@
       "minecraft:ice_spikes": "2025-02-14 23:17:20 +0000",
       "minecraft:frozen_ocean": "2025-02-13 00:53:10 +0000",
       "minecraft:desert": "2025-02-23 07:54:36 +0000",
+      "minecraft:windswept_forest": "2025-02-28 23:25:22 +0000",
       "minecraft:ocean": "2025-02-12 05:43:04 +0000",
       "minecraft:jungle": "2025-02-23 07:48:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-19 17:38:15 +0000",
@@ -5324,9 +5326,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "leafcutter_ant_pupa": "2025-02-28 04:24:05 +0000"
+      "has_logs": "2025-02-28 03:58:44 +0000"
     },
     "done": true
   },
@@ -5345,18 +5347,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-28 03:58:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-02-28 04:12:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-02-28 03:58:44 +0000"
     },
     "done": true
   },
@@ -5393,6 +5383,102 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-02-28 03:58:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-28 04:12:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-02-28 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-02-28 23:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-28 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 23:33:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-02-28 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-02-28 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-02-28 23:33:50 +0000"
     },
     "done": true
   },
