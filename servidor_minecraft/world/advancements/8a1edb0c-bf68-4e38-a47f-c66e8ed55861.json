@@ -5482,5 +5482,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-08 05:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-08 05:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-08 05:39:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -282,3 +282,7 @@
 [08Mar2025 05:19:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
 [08Mar2025 05:19:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
 [08Mar2025 05:19:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[08Mar2025 05:40:29.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sl44tx) moved wrongly! 0.3555816872565174
+[08Mar2025 05:40:30.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sl44tx) moved wrongly! 0.5204770402524446
+[08Mar2025 05:40:30.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sl44tx) moved wrongly! 0.7469216708361728
+[08Mar2025 05:40:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [You Are A Pirate]
