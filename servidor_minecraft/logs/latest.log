@@ -209,3 +209,4 @@ Things may not work well.
 [09Mar2025 21:01:16.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.1265678877574392
 [09Mar2025 21:01:16.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.430147287110831
 [09Mar2025 21:20:59.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved wrongly!
+[09Mar2025 21:33:32.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Toxic Alloy]
