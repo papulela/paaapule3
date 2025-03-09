@@ -211,3 +211,20 @@ Things may not work well.
 [09Mar2025 21:20:59.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved wrongly!
 [09Mar2025 21:33:32.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Toxic Alloy]
 [09Mar2025 21:42:55.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved wrongly!
+[09Mar2025 22:01:02.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved wrongly!
+[09Mar2025 22:04:37.239] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
+[09Mar2025 22:04:37.243] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[09Mar2025 22:04:56.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[09Mar2025 22:04:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[09Mar2025 22:05:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Mar2025 22:05:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 22:05:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 22:05:00.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 22:05:00.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Mar2025 22:05:00.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Mar2025 22:05:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Mar2025 22:05:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Mar2025 22:05:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 22:05:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 22:05:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Mar2025 22:05:00.559] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
