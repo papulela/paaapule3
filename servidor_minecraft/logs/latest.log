@@ -338,3 +338,17 @@ Things may not work well.
 [09Mar2025 05:44:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
 [09Mar2025 06:01:26.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/5476, l='ServerLevel[world]', x=764.49, y=64.06, z=-1318.30] died, message: 'Fisherman was slain by Zombie'
 [09Mar2025 06:01:51.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5475, l='ServerLevel[world]', x=764.49, y=64.06, z=-1318.30] died, message: 'Nitwit was slain by Zombie'
+[09Mar2025 06:33:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Stopping the server]
+[09Mar2025 06:33:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 06:33:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 06:33:22.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[09Mar2025 06:33:22.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[09Mar2025 06:33:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 06:33:22.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Mar2025 06:33:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Mar2025 06:33:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Mar2025 06:33:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Mar2025 06:33:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 06:33:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 06:33:22.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Mar2025 06:33:22.300] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
