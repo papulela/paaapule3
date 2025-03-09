@@ -336,3 +336,5 @@ Things may not work well.
 [09Mar2025 05:44:29.062] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
 [09Mar2025 05:44:30.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:40127] logged in with entity id 5369 at (750.3719376042379, 72.0, -1252.233686685778)
 [09Mar2025 05:44:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
+[09Mar2025 06:01:26.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/5476, l='ServerLevel[world]', x=764.49, y=64.06, z=-1318.30] died, message: 'Fisherman was slain by Zombie'
+[09Mar2025 06:01:51.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5475, l='ServerLevel[world]', x=764.49, y=64.06, z=-1318.30] died, message: 'Nitwit was slain by Zombie'
