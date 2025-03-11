@@ -5521,5 +5521,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-03-11 22:40:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
