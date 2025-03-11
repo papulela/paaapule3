@@ -5527,5 +5527,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-03-11 23:03:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
