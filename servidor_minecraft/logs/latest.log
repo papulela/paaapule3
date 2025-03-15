@@ -176,3 +176,29 @@
 [15Mar2025 22:43:15.938] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
 [15Mar2025 22:43:17.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.98.208.129:44769] logged in with entity id 521 at (2224.7225124396514, -28.125, -1427.5810205596133)
 [15Mar2025 22:43:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
+[15Mar2025 22:51:58.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -9.86267487156033,0.0,2.68482493774286
+[15Mar2025 22:51:58.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -11.09569162168259,0.0,3.0197742070204185
+[15Mar2025 22:51:58.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -12.32873420198166,0.0,3.3546308785741985
+[15Mar2025 22:51:58.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -13.561799564496596,0.0,3.6894058789355313
+[15Mar2025 22:51:58.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -14.794885020925904,0.0,4.0241088453053635
+[15Mar2025 22:51:58.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -16.027988200187792,0.0,4.358748277694531
+[15Mar2025 22:51:58.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -17.26110701098787,0.0,4.69333167311288
+[15Mar2025 22:51:58.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -9.86455220145217,0.0,2.6780949615385907
+[15Mar2025 22:51:58.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -11.097696959417817,0.0,3.0125853398440086
+[15Mar2025 22:51:58.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! -12.330991410811976,0.0,3.3465208119066574
+[15Mar2025 22:52:58.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved wrongly!
+[15Mar2025 23:03:16.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[15Mar2025 23:05:32.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 23:05:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 23:05:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 23:05:32.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[15Mar2025 23:05:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[15Mar2025 23:05:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 23:05:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 23:05:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 23:05:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 23:05:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 23:05:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 23:05:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 23:05:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Mar2025 23:05:32.855] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
