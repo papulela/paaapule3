@@ -1002,6 +1002,7 @@
       "minecraft:enderman": "2025-02-14 01:20:56 +0000",
       "minecraft:vex": "2025-02-19 18:23:53 +0000",
       "minecraft:zombie": "2025-02-12 04:45:48 +0000",
+      "minecraft:drowned": "2025-03-23 21:33:21 +0000",
       "minecraft:zombie_villager": "2025-02-14 00:08:02 +0000"
     },
     "done": false
@@ -5573,6 +5574,18 @@
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-23 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-23 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed": "2025-03-23 21:47:39 +0000"
     },
     "done": true
   },

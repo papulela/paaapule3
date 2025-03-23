@@ -82,6 +82,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-23 00:01:05 +0000",
+      "minecraft:spider": "2025-03-23 21:36:01 +0000",
       "minecraft:husk": "2025-03-23 00:05:42 +0000",
       "minecraft:zombie": "2025-03-22 23:33:20 +0000"
     },
@@ -309,6 +310,7 @@
       "cooked_beef": "2025-03-22 23:38:14 +0000",
       "beef": "2025-03-23 00:06:32 +0000",
       "apple": "2025-03-22 23:51:03 +0000",
+      "mutton": "2025-03-23 21:39:36 +0000",
       "golden_apple": "2025-03-23 00:06:36 +0000",
       "cooked_chicken": "2025-03-23 00:11:34 +0000"
     },
@@ -812,9 +814,45 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-23 21:35:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-23 21:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-03-23 21:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-23 21:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-23 21:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-23 21:49:41 +0000"
     },
     "done": true
   },
@@ -827,6 +865,24 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-23 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-03-23 21:40:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-03-23 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-23 21:48:34 +0000"
     },
     "done": true
   },
