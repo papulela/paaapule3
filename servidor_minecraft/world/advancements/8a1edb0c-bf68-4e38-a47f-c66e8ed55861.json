@@ -511,6 +511,7 @@
       "cooked_porkchop": "2025-02-12 04:39:22 +0000",
       "honey_bottle": "2025-02-14 23:32:26 +0000",
       "cooked_mutton": "2025-02-12 04:42:34 +0000",
+      "sweet_berries": "2025-03-23 22:06:42 +0000",
       "cooked_beef": "2025-02-12 05:30:27 +0000",
       "beef": "2025-02-12 04:29:54 +0000",
       "baked_potato": "2025-02-13 00:18:55 +0000",
@@ -5580,6 +5581,12 @@
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-03-23 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-23 22:14:41 +0000"
     },
     "done": true
   },

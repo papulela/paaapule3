@@ -81,9 +81,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-23 22:03:17 +0000",
       "minecraft:skeleton": "2025-03-23 00:01:05 +0000",
       "minecraft:spider": "2025-03-23 21:36:01 +0000",
       "minecraft:husk": "2025-03-23 00:05:42 +0000",
+      "minecraft:cave_spider": "2025-03-23 22:07:49 +0000",
       "minecraft:zombie": "2025-03-22 23:33:20 +0000"
     },
     "done": false
@@ -307,11 +309,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-23 00:12:11 +0000",
+      "sweet_berries": "2025-03-23 22:19:04 +0000",
       "cooked_beef": "2025-03-22 23:38:14 +0000",
       "beef": "2025-03-23 00:06:32 +0000",
       "apple": "2025-03-22 23:51:03 +0000",
       "mutton": "2025-03-23 21:39:36 +0000",
       "golden_apple": "2025-03-23 00:06:36 +0000",
+      "cookie": "2025-03-23 22:14:07 +0000",
       "cooked_chicken": "2025-03-23 00:11:34 +0000"
     },
     "done": false
@@ -814,9 +818,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-23 22:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-23 21:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
     },
     "done": true
   },
@@ -826,9 +854,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-03-23 21:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
     },
     "done": true
   },
@@ -838,15 +878,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-03-23 21:48:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-23 22:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-03-23 21:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-23 22:19:55 +0000"
     },
     "done": true
   },
@@ -862,9 +944,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-23 22:14:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-03-23 22:15:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-03-23 22:07:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 22:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-23 22:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-23 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-23 22:19:55 +0000"
     },
     "done": true
   },
@@ -874,15 +1022,99 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 22:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-03-23 21:40:42 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-03-23 22:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-23 22:02:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-03-23 21:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-23 22:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-23 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-23 22:08:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-23 22:19:55 +0000"
     },
     "done": true
   },
