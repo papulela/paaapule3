@@ -1396,5 +1396,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-03-24 21:19:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
