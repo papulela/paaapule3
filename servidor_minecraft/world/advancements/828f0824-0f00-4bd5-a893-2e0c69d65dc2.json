@@ -1405,15 +1405,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "travelersbackpack:recipes/misc/bee_smithing": {
     "criteria": {
-      "has_cobblestone": "2025-03-24 23:22:22 +0000"
+      "has_bee": "2025-03-24 21:19:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_pink_petals": "2025-03-24 22:16:32 +0000"
+      "has_emerald": "2025-03-24 21:32:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-03-24 21:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-24 21:39:45 +0000"
     },
     "done": true
   },
@@ -1423,15 +1435,81 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_coal": "2025-03-24 23:24:37 +0000"
+      "has_melon": "2025-03-24 21:47:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "travelersbackpack:recipes/misc/melon": {
     "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
+      "has_melon_slice": "2025-03-24 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-24 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-24 21:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-24 21:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-03-24 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-03-24 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 21:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 21:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-24 21:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-24 22:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 22:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-24 22:16:32 +0000"
     },
     "done": true
   },
@@ -1441,9 +1519,81 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_item": "2025-03-24 23:34:17 +0000"
+      "has_iron_hoe": "2025-03-24 22:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-03-24 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-03-24 23:05:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-03-24 23:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-24 23:22:22 +0000"
     },
     "done": true
   },
@@ -1456,12 +1606,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-24 23:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_shovel": "2025-03-24 21:58:01 +0000"
     },
     "done": true
   },
@@ -1483,57 +1627,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_shovel": "2025-03-24 21:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-03-24 21:32:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-24 23:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-03-24 22:01:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-03-24 21:32:19 +0000"
     },
     "done": true
   },
@@ -1543,135 +1639,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-03-24 22:01:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2025-03-24 23:05:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-03-24 21:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-03-24 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-03-24 23:34:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2025-03-24 23:05:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-03-24 21:47:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-03-24 23:41:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-24 23:22:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-03-24 23:34:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-03-24 21:47:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-03-24 21:39:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-03-24 21:47:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-24 23:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-03-24 21:57:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bee_smithing": {
-    "criteria": {
-      "has_bee": "2025-03-24 21:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-03-24 21:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_hoe": "2025-03-24 22:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-03-24 21:57:05 +0000"
     },
     "done": true
   },
@@ -1693,18 +1669,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-03-24 23:04:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-03-24 23:44:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-24 23:22:22 +0000"
@@ -1717,9 +1681,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "has_moss_block": "2025-03-24 21:58:22 +0000"
+      "has_coal": "2025-03-24 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-24 23:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-24 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-03-24 23:34:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-03-24 23:41:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 23:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-03-26 23:37:10 +0000"
     },
     "done": true
   },
