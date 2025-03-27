@@ -5147,7 +5147,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-26 06:22:58 +0000"
+      "minecraft:crimson_forest": "2025-02-26 06:22:58 +0000",
+      "minecraft:soul_sand_valley": "2025-03-27 23:10:55 +0000"
     },
     "done": false
   },
