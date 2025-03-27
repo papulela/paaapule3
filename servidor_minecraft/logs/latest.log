@@ -663,3 +663,13 @@
 [27Mar2025 23:22:19.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1s
 [27Mar2025 23:22:24.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> we need 3 blocks of glowstone
 [27Mar2025 23:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
+[27Mar2025 23:24:03.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes?
+[27Mar2025 23:25:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oki glowstone
+[27Mar2025 23:25:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes 3 glowstones
+[27Mar2025 23:26:23.418] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/70288, l='ServerLevel[world]', x=-311.00, y=31.00, z=-329.00] as it would cause deadlock
+[27Mar2025 23:28:12.720] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71241, l='ServerLevel[world]', x=-47.10, y=31.00, z=-501.00] as it would cause deadlock
+[27Mar2025 23:28:12.721] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71243, l='ServerLevel[world]', x=-47.00, y=31.00, z=-497.00] as it would cause deadlock
+[27Mar2025 23:30:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
+[27Mar2025 23:30:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> glowstone
+[27Mar2025 23:31:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D thank you baby
+[27Mar2025 23:31:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> for nothing
