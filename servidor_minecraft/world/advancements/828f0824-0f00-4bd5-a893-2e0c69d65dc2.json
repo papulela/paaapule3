@@ -1879,12 +1879,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-27 20:58:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-27 20:57:42 +0000"
@@ -1909,21 +1903,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-03-27 20:57:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-03-27 20:57:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_logs": "2025-03-27 20:58:36 +0000"
+      "has_planks": "2025-03-27 20:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-27 20:57:51 +0000"
     },
     "done": true
   },
@@ -1933,9 +1927,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_planks": "2025-03-27 20:57:42 +0000"
+      "has_log": "2025-03-27 20:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 20:58:36 +0000"
     },
     "done": true
   },
