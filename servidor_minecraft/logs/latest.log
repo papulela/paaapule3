@@ -511,3 +511,75 @@
 [27Mar2025 22:05:37.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 10.999537050896947,-0.1886142596908087,-2.829554099950201
 [27Mar2025 22:08:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> sleep?
 [27Mar2025 22:09:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes
+[27Mar2025 22:13:59.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1296} BlockPos{x=734, y=70, z=-1296}
+[27Mar2025 22:14:02.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1287} BlockPos{x=733, y=70, z=-1286}
+[27Mar2025 22:14:02.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1287} BlockPos{x=733, y=70, z=-1286}
+[27Mar2025 22:17:00.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.28343989563586547
+[27Mar2025 22:17:00.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.7737091897220125
+[27Mar2025 22:17:00.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.278358783836211
+[27Mar2025 22:17:00.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.54838672001938
+[27Mar2025 22:17:00.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.692873284894631
+[27Mar2025 22:17:07.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> fuck ca
+[27Mar2025 22:17:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> cat
+[27Mar2025 22:17:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i need your help
+[27Mar2025 22:17:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1s
+[27Mar2025 22:17:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ur cat is down
+[27Mar2025 22:17:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :o
+[27Mar2025 22:19:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> Maybe u need a new cat
+[27Mar2025 22:19:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> fuck the cat
+[27Mar2025 22:19:35.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> come here baby
+[27Mar2025 22:19:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i cant with these stairs
+[27Mar2025 22:19:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> you have to do it pls
+[27Mar2025 22:20:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i did the materials but i cant do it properly, check ig
+[27Mar2025 22:20:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1S
+[27Mar2025 22:21:23.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Ender Distancing]
+[27Mar2025 22:21:25.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Race Against The Clock]
+[27Mar2025 22:21:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
+[27Mar2025 22:21:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Capsid-19]
+[27Mar2025 22:22:22.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RaycatEntity['andie ass'/50518, l='ServerLevel[world]', x=737.52, y=72.25, z=-1287.42] died: andie ass was incinerated by Sl44tx
+[27Mar2025 22:22:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> sleep?
+[27Mar2025 22:23:01.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i m driving
+[27Mar2025 22:23:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> later
+[27Mar2025 22:23:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
+[27Mar2025 22:23:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oh im shaking
+[27Mar2025 22:23:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i have ender flu
+[27Mar2025 22:25:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
+[27Mar2025 22:25:04.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> giveme
+[27Mar2025 22:25:30.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> be right back, im gonna get some water
+[27Mar2025 22:27:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Take Aim]
+[27Mar2025 22:27:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> hehe
+[27Mar2025 22:28:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
+[27Mar2025 22:28:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> pretty :3
+[27Mar2025 22:29:17.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> can you do the other side too?
+[27Mar2025 22:29:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> sure
+[27Mar2025 22:29:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> im gonna make some more stairs
+[27Mar2025 22:31:25.648] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
+[27Mar2025 22:31:25.650] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[27Mar2025 22:31:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH
+[27Mar2025 22:31:38.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ANDIE
+[27Mar2025 22:32:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thank u
+[27Mar2025 22:34:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andie do you have food?
+[27Mar2025 22:34:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hmmmm
+[27Mar2025 22:34:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nop
+[27Mar2025 22:34:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
+[27Mar2025 22:34:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i have some bad
+[27Mar2025 22:34:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i have 1 heart
+[27Mar2025 22:34:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thanku <3
+[27Mar2025 22:36:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hhmmmmmm
+[27Mar2025 22:37:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> twaittt
+[27Mar2025 22:37:34.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wait
+[27Mar2025 22:37:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
+[27Mar2025 22:37:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i have some bad
+[27Mar2025 22:40:37.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> sleep
+[27Mar2025 22:41:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
+[27Mar2025 22:41:06.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i thins
+[27Mar2025 22:41:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> thinks that
+[27Mar2025 22:41:18.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> now it good
+[27Mar2025 22:41:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> nice!!!
+[27Mar2025 22:41:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> can you do the rest as the video?
+[27Mar2025 22:42:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> with the stairs
+[27Mar2025 22:42:10.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
+[27Mar2025 22:42:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> <3
+[27Mar2025 22:42:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> only said me
+[27Mar2025 22:42:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> what minute
+[27Mar2025 22:42:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
