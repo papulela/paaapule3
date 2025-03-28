@@ -642,3 +642,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [28Mar2025 22:51:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andres the monster
 [28Mar2025 22:51:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oo
 [28Mar2025 22:52:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> watch out
+[28Mar2025 22:52:42.404] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
+[28Mar2025 22:52:42.405] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[28Mar2025 22:53:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> u killed it?
+[28Mar2025 22:53:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i dont knows
+[28Mar2025 22:53:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> leave here
+[28Mar2025 22:53:56.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i dont see u :(
+[28Mar2025 22:54:12.706] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
+[28Mar2025 22:54:12.707] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[28Mar2025 22:54:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wdhwqdhwqd
+[28Mar2025 22:54:40.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OO
+[28Mar2025 22:54:55.356] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
+[28Mar2025 22:54:55.357] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[28Mar2025 22:54:58.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> WDHNQWBHDBQWHD
+[28Mar2025 22:56:29.508] [Worker-Main-47/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11996, l='ServerLevel[world]', x=-476.00, y=31.00, z=0.90] as it would cause deadlock
+[28Mar2025 22:56:39.384] [Worker-Main-54/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12210, l='ServerLevel[world]', x=-311.00, y=31.00, z=-329.00] as it would cause deadlock
+[28Mar2025 22:57:41.258] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1611, y=35, z=-674}
+[28Mar2025 22:58:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i love it sound
+[28Mar2025 22:58:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> birds
+[28Mar2025 22:58:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> me too :D
+[28Mar2025 23:01:31.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> WHAT
+[28Mar2025 23:01:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has reached the goal [A Small Cemetery]
+[28Mar2025 23:02:18.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> come
+[28Mar2025 23:02:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wait
+[28Mar2025 23:02:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> Check this
