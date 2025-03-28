@@ -1,22 +1,22 @@
-[27Mar2025 21:11:30.797] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Mar2025 21:11:30.800] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[27Mar2025 21:11:32.243] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Mar2025 21:11:32.316] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/paaapule3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27Mar2025 21:11:32.648] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 21:11:32.649] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 21:11:32.651] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 21:11:32.652] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 21:11:32.881] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[27Mar2025 21:11:32.884] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[27Mar2025 21:11:35.292] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Mar2025 21:11:35.507] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[27Mar2025 21:11:35.508] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Mar2025 21:11:35.520] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 21:11:35.626] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 1 override(s) found
-[27Mar2025 21:11:35.627] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[27Mar2025 21:11:35.629] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[27Mar2025 21:11:35.650] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[27Mar2025 21:11:35.840] [main/INFO] [Puzzles Lib/]: Loading 52 mods:
+[28Mar2025 22:00:17.074] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28Mar2025 22:00:17.080] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[28Mar2025 22:00:18.380] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Mar2025 22:00:18.449] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/paaapule3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28Mar2025 22:00:18.808] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 22:00:18.810] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 22:00:18.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 22:00:18.813] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 22:00:19.041] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[28Mar2025 22:00:19.043] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[28Mar2025 22:00:22.150] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Mar2025 22:00:22.325] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[28Mar2025 22:00:22.326] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Mar2025 22:00:22.341] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 22:00:22.475] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 1 override(s) found
+[28Mar2025 22:00:22.475] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[28Mar2025 22:00:22.476] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[28Mar2025 22:00:22.493] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[28Mar2025 22:00:22.761] [main/INFO] [Puzzles Lib/]: Loading 52 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- ambientsounds 6.1.4
@@ -70,632 +70,109 @@
 	- wthit 8.16.1
 		\-- waila 8.16.1
 	- yungsapi 1.20-Forge-4.0.6
-[27Mar2025 21:11:37.903] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[27Mar2025 21:11:38.808] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.94 s after launch)
-[27Mar2025 21:11:39.049] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[27Mar2025 21:11:39.050] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[27Mar2025 21:11:39.202] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[27Mar2025 21:11:39.206] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[27Mar2025 21:11:41.271] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2457 milliseconds
-[27Mar2025 21:11:44.780] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[28Mar2025 22:00:25.074] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28Mar2025 22:00:25.953] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.93 s after launch)
+[28Mar2025 22:00:26.340] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28Mar2025 22:00:26.340] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28Mar2025 22:00:26.461] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[28Mar2025 22:00:26.462] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[28Mar2025 22:00:28.406] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2448 milliseconds
+[28Mar2025 22:00:31.131] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[27Mar2025 21:11:45.550] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[27Mar2025 21:11:45.893] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[27Mar2025 21:11:45.897] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[27Mar2025 21:11:45.905] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[27Mar2025 21:11:45.907] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[27Mar2025 21:11:45.908] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[27Mar2025 21:11:45.909] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[27Mar2025 21:11:45.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[27Mar2025 21:11:45.918] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[27Mar2025 21:11:45.920] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[27Mar2025 21:11:46.320] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Mar2025 21:11:46.321] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Mar2025 21:11:46.682] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[27Mar2025 21:11:46.691] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[27Mar2025 21:11:46.692] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (9 ms)
-[27Mar2025 21:11:46.904] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[27Mar2025 21:11:46.977] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[27Mar2025 21:11:49.630] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[27Mar2025 21:11:49.904] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[27Mar2025 21:11:50.209] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[27Mar2025 21:11:50.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[27Mar2025 21:11:50.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[27Mar2025 21:11:50.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[27Mar2025 21:11:50.410] [main/INFO] [journeymap/]: Initializing Packet Registries
-[27Mar2025 21:11:50.442] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[27Mar2025 21:11:50.442] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[27Mar2025 21:11:50.443] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[27Mar2025 21:11:50.443] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[27Mar2025 21:11:50.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[27Mar2025 21:11:50.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[27Mar2025 21:11:50.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.29 Target: null
-[27Mar2025 21:11:50.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[27Mar2025 21:11:50.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[27Mar2025 21:11:50.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Mar2025 21:11:50.910] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[27Mar2025 21:11:50.918] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[27Mar2025 21:11:50.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27Mar2025 21:11:50.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[27Mar2025 21:11:50.930] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[27Mar2025 21:11:50.931] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[27Mar2025 21:11:50.933] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[27Mar2025 21:11:50.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[27Mar2025 21:11:50.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[27Mar2025 21:11:50.958] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[27Mar2025 21:11:51.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
-[27Mar2025 21:11:51.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[27Mar2025 21:11:51.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[27Mar2025 21:11:51.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[27Mar2025 21:11:51.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 8.9.2
-[27Mar2025 21:11:51.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[27Mar2025 21:11:51.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
-[27Mar2025 21:11:51.529] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Mar2025 21:11:51.656] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[27Mar2025 21:11:51.988] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
-[27Mar2025 21:11:51.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
-[27Mar2025 21:11:54.507] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[27Mar2025 21:11:54.640] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[27Mar2025 21:11:55.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[27Mar2025 21:11:55.728] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2330 advancements
-[27Mar2025 21:11:55.732] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[27Mar2025 21:11:55.733] [main/INFO] [Dungeon Crawl/]: Loading data...
-[27Mar2025 21:11:56.160] [main/INFO] [Dungeon Crawl/]: Done.
-[27Mar2025 21:11:56.188] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[27Mar2025 21:11:56.193] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[27Mar2025 21:11:56.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Mar2025 21:11:56.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Mar2025 21:11:56.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Mar2025 21:11:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Mar2025 21:11:56.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Mar2025 21:11:56.724] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Mar2025 21:11:56.876] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[27Mar2025 21:11:56.880] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Mar2025 21:11:57.102] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[27Mar2025 21:11:57.103] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[27Mar2025 21:11:57.103] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[27Mar2025 21:11:57.103] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[27Mar2025 21:11:57.103] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[27Mar2025 21:11:57.104] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[27Mar2025 21:11:57.104] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[27Mar2025 21:11:57.105] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[27Mar2025 21:11:57.105] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[27Mar2025 21:11:57.105] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[27Mar2025 21:11:57.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Mar2025 21:11:58.220] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[27Mar2025 21:11:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Mar2025 21:11:58.337] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 117 ms
-[27Mar2025 21:11:58.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.468s)! For help, type "help"
-[27Mar2025 21:11:58.378] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Mar2025 21:11:58.411] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[27Mar2025 21:11:58.414] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[27Mar2025 21:11:58.415] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[27Mar2025 21:11:58.428] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[27Mar2025 21:11:58.428] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[27Mar2025 21:11:58.429] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[27Mar2025 21:11:58.430] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[27Mar2025 21:11:58.430] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/paaapule3/servidor_minecraft/./config/infernalmobs.cfg
-[27Mar2025 21:11:58.431] [Server thread/WARN] [ModernFix/]: Dedicated server took 30.567 seconds to load
-[27Mar2025 21:12:03.415] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[27Mar2025 21:12:05.496] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[27Mar2025 21:12:05.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:58571] logged in with entity id 521 at (-1374.009893714612, 85.0, -591.0880604185922)
-[27Mar2025 21:12:05.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
-[27Mar2025 21:12:15.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
-[27Mar2025 21:12:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
-[27Mar2025 21:12:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
-[27Mar2025 21:12:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
-[27Mar2025 21:12:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[27Mar2025 21:12:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
-[27Mar2025 21:12:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
-[27Mar2025 21:12:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
-[27Mar2025 21:12:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
-[27Mar2025 21:12:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
-[27Mar2025 21:12:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
-[27Mar2025 21:12:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
-[27Mar2025 21:12:23.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
-[27Mar2025 21:12:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[27Mar2025 21:12:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
-[27Mar2025 21:12:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
-[27Mar2025 21:12:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
-[27Mar2025 21:12:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
-[27Mar2025 21:12:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
-[27Mar2025 21:12:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
-[27Mar2025 21:12:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
-[27Mar2025 21:12:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
-[27Mar2025 21:12:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
-[27Mar2025 21:12:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
-[27Mar2025 21:12:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
-[27Mar2025 21:12:23.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
-[27Mar2025 21:12:23.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
-[27Mar2025 21:12:23.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[27Mar2025 21:12:23.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
-[27Mar2025 21:12:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
-[27Mar2025 21:12:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
-[27Mar2025 21:12:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
-[27Mar2025 21:12:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
-[27Mar2025 21:12:23.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
-[27Mar2025 21:12:23.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
-[27Mar2025 21:12:23.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
-[27Mar2025 21:12:23.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[27Mar2025 21:12:23.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
-[27Mar2025 21:12:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
-[27Mar2025 21:12:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
-[27Mar2025 21:12:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[27Mar2025 21:12:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[27Mar2025 21:12:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
-[27Mar2025 21:12:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
-[27Mar2025 21:12:23.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
-[27Mar2025 21:12:23.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
-[27Mar2025 21:12:23.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
-[27Mar2025 21:12:23.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
-[27Mar2025 21:12:23.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
-[27Mar2025 21:12:23.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
-[27Mar2025 21:12:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
-[27Mar2025 21:12:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[27Mar2025 21:12:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
-[27Mar2025 21:12:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
-[27Mar2025 21:12:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
-[27Mar2025 21:12:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
-[27Mar2025 21:12:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
-[27Mar2025 21:12:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
-[27Mar2025 21:12:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
-[27Mar2025 21:12:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
-[27Mar2025 21:12:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
-[27Mar2025 21:12:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
-[27Mar2025 21:12:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
-[27Mar2025 21:12:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
-[27Mar2025 21:12:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
-[27Mar2025 21:12:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
-[27Mar2025 21:12:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
-[27Mar2025 21:12:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
-[27Mar2025 21:12:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
-[27Mar2025 21:12:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
-[27Mar2025 21:12:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /octolib config reload (all|<path>)
-[27Mar2025 21:12:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
-[27Mar2025 21:12:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
-[27Mar2025 21:12:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
-[27Mar2025 21:12:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
-[27Mar2025 21:12:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
-[27Mar2025 21:12:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /feclass <entClass>
-[27Mar2025 21:12:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawninfernal <x> <y> <z> <entClass> <modifiers>
-[27Mar2025 21:12:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
-[27Mar2025 21:12:23.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
-[27Mar2025 21:12:23.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
-[27Mar2025 21:12:23.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
-[27Mar2025 21:12:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waila (plugin|dump)
-[27Mar2025 21:12:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
-[27Mar2025 21:12:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbbind [show|set|teleport]
-[27Mar2025 21:12:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
-[27Mar2025 21:12:23.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
-[27Mar2025 21:12:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbalignment [<player>]
-[27Mar2025 21:12:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
-[27Mar2025 21:12:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
-[27Mar2025 21:12:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
-[27Mar2025 21:12:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
-[27Mar2025 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
-[27Mar2025 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
-[27Mar2025 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
-[27Mar2025 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /revive <players>
-[27Mar2025 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fallingtree toggle
-[27Mar2025 21:12:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
-[27Mar2025 21:12:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
-[27Mar2025 21:12:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
-[27Mar2025 21:12:41.387] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Offelonde is 828f0824-0f00-4bd5-a893-2e0c69d65dc2
-[27Mar2025 21:12:43.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Offelonde[/127.199.157.89:60031] logged in with entity id 772 at (-1365.9376398196719, 85.0, -590.4845833428225)
-[27Mar2025 21:12:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde joined the game
-[27Mar2025 21:13:50.129] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[27Mar2025 21:13:51.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:41867] logged in with entity id 1228 at (-1374.009893714612, 85.0, -591.0880604185922)
-[27Mar2025 21:13:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
-[27Mar2025 21:14:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nat
-[27Mar2025 21:15:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes?
-[27Mar2025 21:15:05.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> the floor
-[27Mar2025 21:15:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> is
-[27Mar2025 21:15:09.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wrong
-[27Mar2025 21:15:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> KLFKLSAF
-[27Mar2025 21:15:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> this is abedul
-[27Mar2025 21:15:16.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> and
-[27Mar2025 21:15:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> she used
-[27Mar2025 21:15:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> roble
-[27Mar2025 21:15:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ooh
-[27Mar2025 21:15:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wait
-[27Mar2025 21:16:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> so we used birch but we need oak?
-[27Mar2025 21:17:04.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki no problem
-[27Mar2025 21:17:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> so
-[27Mar2025 21:17:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> we change the floor?
-[27Mar2025 21:18:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yeah
-[27Mar2025 21:18:29.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH MY GOD
-[27Mar2025 21:18:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> search roble
-[27Mar2025 21:18:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> what?
-[27Mar2025 21:18:53.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> creeper
-[27Mar2025 21:18:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ><
-[27Mar2025 21:19:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> do u have food?
-[27Mar2025 21:19:32.344] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
-[27Mar2025 21:19:32.357] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
-[27Mar2025 21:19:35.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oh
-[27Mar2025 21:19:59.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> can you help me?
-[27Mar2025 21:20:05.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> tsure
-[27Mar2025 21:20:11.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> im bleeding out
-[27Mar2025 21:20:33.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thank uu
-[27Mar2025 21:22:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andie
-[27Mar2025 21:22:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes=
-[27Mar2025 21:22:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i cant find oak
-[27Mar2025 21:22:44.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> only dark oak
-[27Mar2025 21:22:47.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> SKAFLLKAFS
-[27Mar2025 21:22:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ntpo
-[27Mar2025 21:22:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> but nowhere normal oak
-[27Mar2025 21:22:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> so maybe we leave the floor
-[27Mar2025 21:22:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> as it is
-[27Mar2025 21:23:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> it will be just lighter
-[27Mar2025 21:23:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ><
-[27Mar2025 21:23:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> no
-[27Mar2025 21:23:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yo find
-[27Mar2025 21:23:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oak
-[27Mar2025 21:23:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> where is oak :(
-[27Mar2025 21:23:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> other biome
-[27Mar2025 21:23:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> I FOUND IT
-[27Mar2025 21:24:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> u find oak?
-[27Mar2025 21:24:16.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes
-[27Mar2025 21:24:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andwsdjwq
-[27Mar2025 21:25:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ANDRES
-[27Mar2025 21:25:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH
-[27Mar2025 21:25:26.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> THIS ZOMI
-[27Mar2025 21:25:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
-[27Mar2025 21:25:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> IT
-[27Mar2025 21:25:38.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> IT WAS PULLING ME
-[27Mar2025 21:25:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ÑLASFLÑFAS
-[27Mar2025 21:25:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> I ALMOST GOT A HEART ATTACK I WAS SO SCARED WDHBWQDHD
-[27Mar2025 21:28:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> t
-[27Mar2025 21:29:56.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
-[27Mar2025 21:29:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> now
-[27Mar2025 21:30:10.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> now here
-[27Mar2025 21:30:21.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> up is
-[27Mar2025 21:30:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oak
-[27Mar2025 21:30:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> or
-[27Mar2025 21:30:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oak
-[27Mar2025 21:30:37.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oki
-[27Mar2025 21:30:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ANDRES
-[27Mar2025 21:30:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> KJJKSAFSAFLLSF
-[27Mar2025 21:31:51.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> :3
-[27Mar2025 21:31:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ><
-[27Mar2025 21:34:39.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> poor treeh
-[27Mar2025 21:34:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> shhh
-[27Mar2025 21:37:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andres
-[27Mar2025 21:37:13.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes?
-[27Mar2025 21:37:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> we need
-[27Mar2025 21:37:24.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wait
-[27Mar2025 21:37:59.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ><
-[27Mar2025 21:38:01.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> tell me
-[27Mar2025 21:38:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> light gray stained glass pane
-[27Mar2025 21:38:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtg
-[27Mar2025 21:38:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
-[27Mar2025 21:38:56.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> show me pic
-[27Mar2025 21:39:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 21:39:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oki
-[27Mar2025 21:39:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :3
-[27Mar2025 21:39:49.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1s
-[27Mar2025 21:41:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> so
-[27Mar2025 21:41:52.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i go to the beach
-[27Mar2025 21:41:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> for
-[27Mar2025 21:41:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> glass
-[27Mar2025 21:42:02.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 21:43:09.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 5.746532410011923,-4.3225385240881025,-7.820072972152332
-[27Mar2025 21:43:09.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 6.514423535599462,-4.617275659100244,-8.88282016074578
-[27Mar2025 21:43:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> How many?
-[27Mar2025 21:43:51.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> 7
-[27Mar2025 21:43:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> or more
-[27Mar2025 21:44:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wait
-[27Mar2025 21:44:10.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH
-[27Mar2025 21:44:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> 88
-[27Mar2025 21:44:16.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> O.o
-[27Mar2025 21:44:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> LSFLÑSAFFÑAS
-[27Mar2025 21:44:21.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 21:44:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> she said 88 on the video...
-[27Mar2025 21:44:34.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> strange
-[27Mar2025 21:44:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> big number
-[27Mar2025 21:44:48.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 19.01
-[27Mar2025 21:44:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> more big
-[27Mar2025 21:44:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> DWHBQDWBOW
-[27Mar2025 21:47:25.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Timed out
-[27Mar2025 21:47:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
-[27Mar2025 21:47:31.206] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[27Mar2025 21:47:33.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:44413] logged in with entity id 17210 at (-1235.3866579778396, 112.96356654167175, -558.0928299051011)
-[27Mar2025 21:47:33.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
-[27Mar2025 21:47:49.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
-[27Mar2025 21:47:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
-[27Mar2025 21:49:06.258] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[27Mar2025 21:49:07.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:45303] logged in with entity id 26473 at (-1235.3866579778396, 112.96356654167175, -558.0928299051011)
-[27Mar2025 21:49:07.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
-[27Mar2025 21:49:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> whats happening
-[27Mar2025 21:49:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> my game crash
-[27Mar2025 21:49:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oh :(
-[27Mar2025 21:50:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andres
-[27Mar2025 21:50:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i hear scary music
-[27Mar2025 21:51:33.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok i have glass panel
-[27Mar2025 21:51:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
-[27Mar2025 21:51:39.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> what is the color?
-[27Mar2025 21:51:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> grey
-[27Mar2025 21:52:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> fuck
-[27Mar2025 21:52:03.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> now
-[27Mar2025 21:52:08.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> need flowers
-[27Mar2025 21:52:41.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> which flowers?
-[27Mar2025 21:53:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hm
-[27Mar2025 21:53:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i dont knows
-[27Mar2025 21:53:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> name in english
-[27Mar2025 21:53:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
-[27Mar2025 21:53:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> you will find them?
-[27Mar2025 21:53:38.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes
-[27Mar2025 21:53:43.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki :D
-[27Mar2025 21:54:04.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
-[27Mar2025 21:54:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> come
-[27Mar2025 21:54:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> come here
-[27Mar2025 21:54:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> wait
-[27Mar2025 21:54:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> this?
-[27Mar2025 21:54:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> or more dark?
-[27Mar2025 21:55:15.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> this is perfect :D
-[27Mar2025 21:55:34.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thanks<3
-[27Mar2025 21:55:40.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> takee
-[27Mar2025 21:55:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thats all?
-[27Mar2025 21:56:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> >:c
-[27Mar2025 21:56:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki c:
-[27Mar2025 21:56:11.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i go to
-[27Mar2025 21:56:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> find
-[27Mar2025 21:56:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> flowers
-[27Mar2025 21:56:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki thank u andie<3
-[27Mar2025 21:56:31.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> sleepy please
-[27Mar2025 21:57:00.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> what
-[27Mar2025 21:57:07.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> fantoms
-[27Mar2025 21:57:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> WHAT IS THIS
-[27Mar2025 21:57:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ..
-[27Mar2025 21:57:10.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> FLSÑFSA
-[27Mar2025 21:57:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> THEY ARE SO SCARY
-[27Mar2025 21:57:24.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> WTF
-[27Mar2025 21:57:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> PSSLFAFLSÑA
-[27Mar2025 21:58:18.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> they spawn wich u have 3 nigth no sleep
-[27Mar2025 21:58:23.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ooh
-[27Mar2025 21:58:28.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> like a nightmares?
-[27Mar2025 21:58:38.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> more or less
-[27Mar2025 21:58:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> it is
-[27Mar2025 21:58:47.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> like
-[27Mar2025 21:58:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> bat but very bad
-[27Mar2025 21:59:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ahh okay
-[27Mar2025 21:59:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> bats are cute ><
-[27Mar2025 21:59:34.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> batman *-*
-[27Mar2025 22:00:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nat
-[27Mar2025 22:00:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> and
-[27Mar2025 22:00:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes
-[27Mar2025 22:00:11.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> where is the cat?
-[27Mar2025 22:00:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ÑSFALÑLFÑASLÑFASLÑAFSASF
-[27Mar2025 22:00:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH
-[27Mar2025 22:00:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> I THINK HE DIED
-[27Mar2025 22:00:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> KLSAFKLFSALKASFKL
-[27Mar2025 22:00:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> omg
-[27Mar2025 22:00:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> u are
-[27Mar2025 22:00:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> really bad
-[27Mar2025 22:00:50.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> owner
-[27Mar2025 22:00:55.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> >:(
-[27Mar2025 22:01:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> MY FISH IS STILL ALIVE HAPPY
-[27Mar2025 22:01:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> all ur pets die
-[27Mar2025 22:01:08.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> YOU ARE ALIVE
-[27Mar2025 22:01:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ÑLSFAÑASF
-[27Mar2025 22:01:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> B)
-[27Mar2025 22:01:29.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ????
-[27Mar2025 22:01:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i m not ur pet
-[27Mar2025 22:01:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> u are my pet
-[27Mar2025 22:01:41.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> my bitch
-[27Mar2025 22:01:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> shh papi
-[27Mar2025 22:02:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D thanks
-[27Mar2025 22:02:54.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> some more?
-[27Mar2025 22:03:03.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i think thats enough for now
-[27Mar2025 22:03:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thank u
-[27Mar2025 22:03:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 22:03:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> if u need more materials
-[27Mar2025 22:03:29.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> say me
-[27Mar2025 22:03:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> okis
-[27Mar2025 22:04:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> so
-[27Mar2025 22:04:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i go to rescuet
-[27Mar2025 22:04:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ur green cat
-[27Mar2025 22:04:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D okay
-[27Mar2025 22:04:47.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> because you left it a abandoned in a hole
-[27Mar2025 22:04:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> >:(
-[27Mar2025 22:05:37.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 10.999537050896947,-0.1886142596908087,-2.829554099950201
-[27Mar2025 22:08:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> sleep?
-[27Mar2025 22:09:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes
-[27Mar2025 22:13:59.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1296} BlockPos{x=734, y=70, z=-1296}
-[27Mar2025 22:14:02.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1287} BlockPos{x=733, y=70, z=-1286}
-[27Mar2025 22:14:02.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=71, z=-1287} BlockPos{x=733, y=70, z=-1286}
-[27Mar2025 22:17:00.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.28343989563586547
-[27Mar2025 22:17:00.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.7737091897220125
-[27Mar2025 22:17:00.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.278358783836211
-[27Mar2025 22:17:00.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.54838672001938
-[27Mar2025 22:17:00.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 1.692873284894631
-[27Mar2025 22:17:07.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> fuck ca
-[27Mar2025 22:17:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> cat
-[27Mar2025 22:17:26.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i need your help
-[27Mar2025 22:17:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1s
-[27Mar2025 22:17:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ur cat is down
-[27Mar2025 22:17:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :o
-[27Mar2025 22:19:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> Maybe u need a new cat
-[27Mar2025 22:19:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> fuck the cat
-[27Mar2025 22:19:35.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> come here baby
-[27Mar2025 22:19:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i cant with these stairs
-[27Mar2025 22:19:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> you have to do it pls
-[27Mar2025 22:20:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i did the materials but i cant do it properly, check ig
-[27Mar2025 22:20:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1S
-[27Mar2025 22:21:23.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Ender Distancing]
-[27Mar2025 22:21:25.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Race Against The Clock]
-[27Mar2025 22:21:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
-[27Mar2025 22:21:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Capsid-19]
-[27Mar2025 22:22:22.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RaycatEntity['andie ass'/50518, l='ServerLevel[world]', x=737.52, y=72.25, z=-1287.42] died: andie ass was incinerated by Sl44tx
-[27Mar2025 22:22:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> sleep?
-[27Mar2025 22:23:01.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i m driving
-[27Mar2025 22:23:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> later
-[27Mar2025 22:23:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 22:23:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oh im shaking
-[27Mar2025 22:23:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i have ender flu
-[27Mar2025 22:25:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
-[27Mar2025 22:25:04.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> giveme
-[27Mar2025 22:25:30.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> be right back, im gonna get some water
-[27Mar2025 22:27:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde has made the advancement [Take Aim]
-[27Mar2025 22:27:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> hehe
-[27Mar2025 22:28:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 22:28:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> pretty :3
-[27Mar2025 22:29:17.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> can you do the other side too?
-[27Mar2025 22:29:21.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> sure
-[27Mar2025 22:29:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> im gonna make some more stairs
-[27Mar2025 22:31:25.648] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
-[27Mar2025 22:31:25.650] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
-[27Mar2025 22:31:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> OH
-[27Mar2025 22:31:38.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ANDIE
-[27Mar2025 22:32:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thank u
-[27Mar2025 22:34:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andie do you have food?
-[27Mar2025 22:34:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hmmmm
-[27Mar2025 22:34:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nop
-[27Mar2025 22:34:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
-[27Mar2025 22:34:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i have some bad
-[27Mar2025 22:34:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> i have 1 heart
-[27Mar2025 22:34:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thanku <3
-[27Mar2025 22:36:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hhmmmmmm
-[27Mar2025 22:37:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> twaittt
-[27Mar2025 22:37:34.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wait
-[27Mar2025 22:37:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 22:37:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i have some bad
-[27Mar2025 22:40:37.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> sleep
-[27Mar2025 22:41:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 22:41:06.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i thins
-[27Mar2025 22:41:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> thinks that
-[27Mar2025 22:41:18.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> now it good
-[27Mar2025 22:41:31.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> nice!!!
-[27Mar2025 22:41:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> can you do the rest as the video?
-[27Mar2025 22:42:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> with the stairs
-[27Mar2025 22:42:10.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 22:42:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> <3
-[27Mar2025 22:42:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> only said me
-[27Mar2025 22:42:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> what minute
-[27Mar2025 22:42:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 22:44:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> why u never have more 3 heart?
-[27Mar2025 22:44:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ....
-[27Mar2025 22:44:56.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i build a food farm
-[27Mar2025 22:44:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ><
-[27Mar2025 22:45:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D
-[27Mar2025 22:46:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> do you have coal?
-[27Mar2025 22:46:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nop
-[27Mar2025 22:46:48.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> we must find in the mine
-[27Mar2025 22:46:49.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 22:50:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> soup
-[27Mar2025 22:50:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> LÑFLÑASF
-[27Mar2025 22:50:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes:D
-[27Mar2025 22:53:54.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> what ur doing
-[27Mar2025 22:53:59.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> search
-[27Mar2025 22:54:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oki
-[27Mar2025 22:54:04.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> farm a
-[27Mar2025 22:54:06.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> food
-[27Mar2025 23:05:27.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1362, y=85, z=-577}
-[27Mar2025 23:05:27.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1362, y=85, z=-577}
-[27Mar2025 23:05:28.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:05:28.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:05:28.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:05:29.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:05:29.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:05:29.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=66, z=-584} BlockPos{x=-1361, y=85, z=-577}
-[27Mar2025 23:06:44.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1413, y=78, z=-534} BlockPos{x=-1393, y=72, z=-542}
-[27Mar2025 23:06:46.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1390, y=73, z=-541} BlockPos{x=-1391, y=72, z=-541}
-[27Mar2025 23:10:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Gave 4 [Obsidian] to Sl44tx]
-[27Mar2025 23:10:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Gave 1 [Flint and Steel] to Sl44tx]
-[27Mar2025 23:10:54.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
-[27Mar2025 23:10:55.658] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65529, l='ServerLevel[world]', x=-237.00, y=31.00, z=-73.00] as it would cause deadlock
-[27Mar2025 23:10:57.171] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65570, l='ServerLevel[world]', x=-165.00, y=31.00, z=40.00] as it would cause deadlock
-[27Mar2025 23:11:03.560] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65749, l='ServerLevel[world]', x=-329.00, y=31.00, z=106.00] as it would cause deadlock
-[27Mar2025 23:12:00.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> honey?
-[27Mar2025 23:12:04.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> where are you
-[27Mar2025 23:14:05.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hi
-[27Mar2025 23:14:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> hii
-[27Mar2025 23:14:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hm
-[27Mar2025 23:14:26.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i dont knows say
-[27Mar2025 23:14:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hmmm
-[27Mar2025 23:14:31.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> nether?
-[27Mar2025 23:14:31.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> inferno?
-[27Mar2025 23:14:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> hell
-[27Mar2025 23:14:33.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> yes
-[27Mar2025 23:14:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i found
-[27Mar2025 23:14:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> why!!
-[27Mar2025 23:14:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> quarzo
-[27Mar2025 23:15:10.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ooo
-[27Mar2025 23:15:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> nice
-[27Mar2025 23:15:23.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:23.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:23.795] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:23.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:23.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:24.095] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:24.194] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:24.295] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:24.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:15:24.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[27Mar2025 23:16:36.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [Nightmare Fuel]
-[27Mar2025 23:16:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> fuck
-[27Mar2025 23:16:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> LKLASFLÑSFALÑASFLÑ
-[27Mar2025 23:16:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> THIS WAS SCARED
-[27Mar2025 23:17:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :oooo
-[27Mar2025 23:17:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> gg B)
-[27Mar2025 23:18:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> look at the house!
-[27Mar2025 23:19:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ><
-[27Mar2025 23:19:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D
-[27Mar2025 23:19:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> cutee
-[27Mar2025 23:19:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> >.<
-[27Mar2025 23:19:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> awww
-[27Mar2025 23:19:56.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> thankss
-[27Mar2025 23:20:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> dontworry
-[27Mar2025 23:21:57.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> do you have glowstone dust?
-[27Mar2025 23:22:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nu
-[27Mar2025 23:22:14.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
-[27Mar2025 23:22:18.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i can find
-[27Mar2025 23:22:19.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> 1s
-[27Mar2025 23:22:24.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> we need 3 blocks of glowstone
-[27Mar2025 23:23:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> wtf
-[27Mar2025 23:24:03.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes?
-[27Mar2025 23:25:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oki glowstone
-[27Mar2025 23:25:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes 3 glowstones
-[27Mar2025 23:26:23.418] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/70288, l='ServerLevel[world]', x=-311.00, y=31.00, z=-329.00] as it would cause deadlock
-[27Mar2025 23:28:12.720] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71241, l='ServerLevel[world]', x=-47.10, y=31.00, z=-501.00] as it would cause deadlock
-[27Mar2025 23:28:12.721] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71243, l='ServerLevel[world]', x=-47.00, y=31.00, z=-497.00] as it would cause deadlock
-[27Mar2025 23:30:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> ok
-[27Mar2025 23:30:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> glowstone
-[27Mar2025 23:31:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> :D thank you baby
-[27Mar2025 23:31:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> for nothing
-[27Mar2025 23:42:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> pink girl
-[27Mar2025 23:43:08.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes? ><
-[27Mar2025 23:44:09.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Offelonde moved too quickly! -4.870257170838613,4.095995536001766,-7.9785217253455585
-[27Mar2025 23:46:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andresss
-[27Mar2025 23:46:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> nat
-[27Mar2025 23:46:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> im tired :(
-[27Mar2025 23:46:57.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> I wanna go to you bed?
-[27Mar2025 23:47:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> *u
-[27Mar2025 23:47:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes
-[27Mar2025 23:47:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> okie
-[27Mar2025 23:47:33.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> ur so fat
-[27Mar2025 23:47:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> tomorrow play
-[27Mar2025 23:47:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> no
-[27Mar2025 23:47:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i not
-[27Mar2025 23:47:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> but
-[27Mar2025 23:47:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yes u are >:)
-[27Mar2025 23:47:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> my di
-[27Mar2025 23:47:54.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> WDJQWQPD
-[27Mar2025 23:48:05.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> byebye andres
-[27Mar2025 23:48:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> then tomorrow play?
-[27Mar2025 23:48:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> bye bye
-[27Mar2025 23:48:09.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yesss
-[27Mar2025 23:48:16.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Offelonde lost connection: Disconnected
-[27Mar2025 23:48:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde left the game
-[27Mar2025 23:48:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]
-[27Mar2025 23:53:43.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has made the advancement [The Parrots and the Bats]
+[28Mar2025 22:00:31.747] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[28Mar2025 22:00:31.941] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[28Mar2025 22:00:31.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Mar2025 22:00:31.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[28Mar2025 22:00:31.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[28Mar2025 22:00:31.961] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[28Mar2025 22:00:31.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[28Mar2025 22:00:31.966] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[28Mar2025 22:00:31.967] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[28Mar2025 22:00:31.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[28Mar2025 22:00:32.285] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28Mar2025 22:00:32.286] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28Mar2025 22:00:32.841] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[28Mar2025 22:00:32.851] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[28Mar2025 22:00:32.855] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (13 ms)
+[28Mar2025 22:00:33.135] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[28Mar2025 22:00:33.180] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[28Mar2025 22:00:35.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[28Mar2025 22:00:36.071] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[28Mar2025 22:00:36.261] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[28Mar2025 22:00:36.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[28Mar2025 22:00:36.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[28Mar2025 22:00:36.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[28Mar2025 22:00:36.490] [main/INFO] [journeymap/]: Initializing Packet Registries
+[28Mar2025 22:00:36.536] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[28Mar2025 22:00:36.537] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[28Mar2025 22:00:36.537] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[28Mar2025 22:00:36.537] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[28Mar2025 22:00:36.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[28Mar2025 22:00:36.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[28Mar2025 22:00:36.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.29 Target: null
+[28Mar2025 22:00:36.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[28Mar2025 22:00:36.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[28Mar2025 22:00:36.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Mar2025 22:00:36.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28Mar2025 22:00:36.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[28Mar2025 22:00:37.026] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[28Mar2025 22:00:37.037] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[28Mar2025 22:00:37.062] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[28Mar2025 22:00:37.063] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[28Mar2025 22:00:37.065] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[28Mar2025 22:00:37.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[28Mar2025 22:00:37.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[28Mar2025 22:00:37.099] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[28Mar2025 22:00:37.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
+[28Mar2025 22:00:37.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[28Mar2025 22:00:37.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[28Mar2025 22:00:37.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[28Mar2025 22:00:37.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 8.9.2
+[28Mar2025 22:00:37.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[28Mar2025 22:00:37.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
+[28Mar2025 22:00:37.703] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Mar2025 22:00:37.835] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[28Mar2025 22:00:38.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
+[28Mar2025 22:00:38.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
+[28Mar2025 22:00:41.239] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[28Mar2025 22:00:41.611] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[28Mar2025 22:00:42.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[28Mar2025 22:00:42.681] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2330 advancements
+[28Mar2025 22:00:42.686] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[28Mar2025 22:00:42.687] [main/INFO] [Dungeon Crawl/]: Loading data...
+[28Mar2025 22:00:43.181] [main/INFO] [Dungeon Crawl/]: Done.
+[28Mar2025 22:00:43.196] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[28Mar2025 22:00:43.200] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[28Mar2025 22:00:43.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28Mar2025 22:00:43.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Mar2025 22:00:43.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Mar2025 22:00:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Mar2025 22:00:43.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Mar2025 22:00:43.628] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Mar2025 22:00:43.742] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Mar2025 22:00:43.747] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[28Mar2025 22:00:44.018] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[28Mar2025 22:00:44.018] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[28Mar2025 22:00:44.019] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[28Mar2025 22:00:44.019] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[28Mar2025 22:00:44.019] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[28Mar2025 22:00:44.020] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[28Mar2025 22:00:44.020] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[28Mar2025 22:00:44.020] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[28Mar2025 22:00:44.021] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[28Mar2025 22:00:44.021] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[28Mar2025 22:00:44.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Mar2025 22:00:44.949] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[28Mar2025 22:00:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Mar2025 22:00:45.064] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 114 ms
+[28Mar2025 22:00:45.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.324s)! For help, type "help"
+[28Mar2025 22:00:45.100] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Mar2025 22:00:45.129] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[28Mar2025 22:00:45.132] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[28Mar2025 22:00:45.132] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[28Mar2025 22:00:45.143] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[28Mar2025 22:00:45.144] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[28Mar2025 22:00:45.144] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[28Mar2025 22:00:45.145] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[28Mar2025 22:00:45.145] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/paaapule3/servidor_minecraft/./config/infernalmobs.cfg
+[28Mar2025 22:00:45.146] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.118 seconds to load
