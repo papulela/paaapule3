@@ -617,3 +617,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [28Mar2025 22:40:08.512] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
 [28Mar2025 22:41:37.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Offelonde lost connection: Timed out
 [28Mar2025 22:41:37.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde left the game
+[28Mar2025 22:50:01.007] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Offelonde is 828f0824-0f00-4bd5-a893-2e0c69d65dc2
+[28Mar2025 22:50:02.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Offelonde[/127.199.157.89:37851] logged in with entity id 9312 at (-215.5, 33.0, -79.5)
+[28Mar2025 22:50:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde joined the game
+[28Mar2025 22:50:19.263] [Server thread/WARN] [tombstone/]: The death event of the player Offelonde was canceled by another mod
+[28Mar2025 22:50:19.264] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[28Mar2025 22:50:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Teleported Sl44tx to Offelonde]
+[28Mar2025 22:50:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde tried to swim in lava
+[28Mar2025 22:50:21.256] [Server thread/INFO] [tombstone/]: The player Offelonde has successfully been saved
+[28Mar2025 22:50:24.716] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
+[28Mar2025 22:50:24.718] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[28Mar2025 22:50:29.721] [Server thread/WARN] [tombstone/]: The death event of the player Sl44tx was canceled by another mod
+[28Mar2025 22:50:29.722] [Server thread/INFO] [tombstone/]: The player Sl44tx has successfully been saved
+[28Mar2025 22:50:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> AGAIN
+[28Mar2025 22:50:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx has completed the challenge [Almost Unkillable]
+[28Mar2025 22:50:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx tried to swim in lava
+[28Mar2025 22:50:55.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Sl44tx with unique ID travelersbackpack.creeper_28.03.2025-22.50.55.dat
+[28Mar2025 22:51:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> FUCKKKKKKKKKKKKKKKKK
+[28Mar2025 22:51:10.431] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-66, y=-7, z=-1795}
+[28Mar2025 22:51:10.431] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-66, y=-7, z=-1794}
+[28Mar2025 22:51:10.431] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-66, y=-7, z=-1793}
+[28Mar2025 22:51:19.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Mar2025 22:51:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> where u died
+[28Mar2025 22:51:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> andres the monster
+[28Mar2025 22:51:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> oo
+[28Mar2025 22:52:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> watch out
