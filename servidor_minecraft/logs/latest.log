@@ -25,3 +25,30 @@
 [29Mar2025 00:23:02.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> :c
 [29Mar2025 00:23:09.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> yea?
 [29Mar2025 00:23:12.967] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -11065 -26 12209 in 4s
+[29Mar2025 00:23:26.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> what is wrong?
+[29Mar2025 00:23:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> i must leave
+[29Mar2025 00:23:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> my mom wanna watch football
+[29Mar2025 00:23:51.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> with me
+[29Mar2025 00:23:52.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> its okay im so sleepy
+[29Mar2025 00:24:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> :c
+[29Mar2025 00:24:01.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> oki
+[29Mar2025 00:24:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> check ig
+[29Mar2025 00:24:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> :.c
+[29Mar2025 00:24:23.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Offelonde> bye bye andie
+[29Mar2025 00:24:27.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sl44tx> bye bye nat
+[29Mar2025 00:24:29.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[29Mar2025 00:24:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[29Mar2025 00:24:31.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Offelonde lost connection: Disconnected
+[29Mar2025 00:24:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Offelonde left the game
+[29Mar2025 00:24:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Mar2025 00:24:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 00:24:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 00:24:51.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 00:24:51.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 00:24:51.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 00:24:51.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 00:24:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 00:24:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 00:24:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 00:24:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Mar2025 00:24:51.647] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
