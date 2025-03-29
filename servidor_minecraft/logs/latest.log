@@ -262,3 +262,13 @@
 [29Mar2025 03:44:16.494] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
 [29Mar2025 03:44:16.494] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
 [29Mar2025 03:55:49.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Mar2025 03:59:07.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.669173114678415
+[29Mar2025 03:59:08.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.6691731212958985
+[29Mar2025 03:59:08.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 0.6691731271348544
+[29Mar2025 03:59:08.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 2.1368765253901074
+[29Mar2025 03:59:08.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved wrongly! 3.0
+[29Mar2025 04:01:25.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[29Mar2025 04:01:25.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[29Mar2025 04:02:55.067] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
+[29Mar2025 04:02:56.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:37787] logged in with entity id 69594 at (-17893.915618934498, 76.0, -9991.031194294288)
+[29Mar2025 04:02:56.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
