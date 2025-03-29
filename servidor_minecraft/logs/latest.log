@@ -1,22 +1,22 @@
-[29Mar2025 19:00:46.298] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Mar2025 19:00:46.307] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[29Mar2025 19:00:49.402] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Mar2025 19:00:49.469] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/paaapule3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Mar2025 19:00:49.830] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 19:00:49.832] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 19:00:49.834] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 19:00:49.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 19:00:50.081] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29Mar2025 19:00:50.083] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[29Mar2025 19:00:52.694] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Mar2025 19:00:52.903] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[29Mar2025 19:00:52.905] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Mar2025 19:00:52.923] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 19:00:53.044] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 1 override(s) found
-[29Mar2025 19:00:53.045] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[29Mar2025 19:00:53.046] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[29Mar2025 19:00:53.071] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[29Mar2025 19:00:53.273] [main/INFO] [Puzzles Lib/]: Loading 52 mods:
+[29Mar2025 19:18:07.161] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Mar2025 19:18:07.165] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[29Mar2025 19:18:08.237] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Mar2025 19:18:08.300] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/paaapule3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Mar2025 19:18:08.568] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 19:18:08.569] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 19:18:08.570] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 19:18:08.571] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/paaapule3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 19:18:08.790] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Mar2025 19:18:08.792] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[29Mar2025 19:18:10.803] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Mar2025 19:18:10.964] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[29Mar2025 19:18:10.964] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Mar2025 19:18:10.984] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 19:18:11.076] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 1 override(s) found
+[29Mar2025 19:18:11.076] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[29Mar2025 19:18:11.077] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[29Mar2025 19:18:11.092] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[29Mar2025 19:18:11.298] [main/INFO] [Puzzles Lib/]: Loading 52 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- ambientsounds 6.1.4
@@ -70,214 +70,180 @@
 	- wthit 8.16.1
 		\-- waila 8.16.1
 	- yungsapi 1.20-Forge-4.0.6
-[29Mar2025 19:00:55.769] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29Mar2025 19:00:56.546] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (14.50 s after launch)
-[29Mar2025 19:00:56.708] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[29Mar2025 19:00:56.708] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[29Mar2025 19:00:56.842] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[29Mar2025 19:00:56.843] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[29Mar2025 19:00:59.002] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2449 milliseconds
-[29Mar2025 19:01:02.360] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[29Mar2025 19:18:12.791] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[29Mar2025 19:18:13.452] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.721 s after launch)
+[29Mar2025 19:18:13.606] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[29Mar2025 19:18:13.607] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[29Mar2025 19:18:13.707] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[29Mar2025 19:18:13.707] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[29Mar2025 19:18:15.318] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1862 milliseconds
+[29Mar2025 19:18:17.897] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[29Mar2025 19:01:03.155] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[29Mar2025 19:01:03.406] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[29Mar2025 19:01:03.437] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Mar2025 19:01:03.439] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29Mar2025 19:01:03.445] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29Mar2025 19:01:03.446] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29Mar2025 19:01:03.450] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29Mar2025 19:01:03.452] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29Mar2025 19:01:03.453] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29Mar2025 19:01:03.458] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29Mar2025 19:01:03.808] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Mar2025 19:01:03.809] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Mar2025 19:01:04.156] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[29Mar2025 19:01:04.156] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[29Mar2025 19:01:04.156] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
-[29Mar2025 19:01:04.442] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Mar2025 19:01:04.523] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29Mar2025 19:01:07.262] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[29Mar2025 19:01:07.862] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[29Mar2025 19:01:07.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[29Mar2025 19:01:08.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Mar2025 19:01:08.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Mar2025 19:01:08.153] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Mar2025 19:01:08.192] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[29Mar2025 19:01:08.192] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[29Mar2025 19:01:08.192] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[29Mar2025 19:01:08.193] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[29Mar2025 19:01:08.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Mar2025 19:01:08.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[29Mar2025 19:01:08.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.29 Target: null
-[29Mar2025 19:01:08.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Mar2025 19:01:08.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[29Mar2025 19:01:08.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Mar2025 19:01:08.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Mar2025 19:01:08.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[29Mar2025 19:01:08.674] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[29Mar2025 19:01:08.684] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[29Mar2025 19:01:08.699] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[29Mar2025 19:01:08.700] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[29Mar2025 19:01:08.701] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[29Mar2025 19:01:08.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[29Mar2025 19:01:08.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[29Mar2025 19:01:08.727] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Mar2025 19:01:08.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
-[29Mar2025 19:01:08.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[29Mar2025 19:01:08.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[29Mar2025 19:01:08.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29Mar2025 19:01:08.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 8.9.2
-[29Mar2025 19:01:08.876] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Mar2025 19:01:08.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
-[29Mar2025 19:01:09.297] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Mar2025 19:01:09.416] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[29Mar2025 19:01:09.815] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
-[29Mar2025 19:01:09.816] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
-[29Mar2025 19:01:12.698] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[29Mar2025 19:01:12.841] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[29Mar2025 19:01:13.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[29Mar2025 19:01:13.810] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2330 advancements
-[29Mar2025 19:01:13.814] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[29Mar2025 19:01:13.815] [main/INFO] [Dungeon Crawl/]: Loading data...
-[29Mar2025 19:01:14.165] [main/INFO] [Dungeon Crawl/]: Done.
-[29Mar2025 19:01:14.186] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[29Mar2025 19:01:14.191] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[29Mar2025 19:01:14.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Mar2025 19:01:14.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Mar2025 19:01:14.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Mar2025 19:01:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Mar2025 19:01:14.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Mar2025 19:01:14.560] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Mar2025 19:01:14.658] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Mar2025 19:01:14.661] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[29Mar2025 19:01:14.764] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[29Mar2025 19:01:14.829] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[29Mar2025 19:01:14.829] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[29Mar2025 19:01:14.830] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[29Mar2025 19:01:14.831] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[29Mar2025 19:01:14.831] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[29Mar2025 19:01:14.832] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[29Mar2025 19:01:14.832] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[29Mar2025 19:01:14.833] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[29Mar2025 19:01:14.833] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[29Mar2025 19:01:14.833] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[29Mar2025 19:01:14.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Mar2025 19:01:16.014] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[29Mar2025 19:01:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Mar2025 19:01:16.160] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 145 ms
-[29Mar2025 19:01:16.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.504s)! For help, type "help"
-[29Mar2025 19:01:16.199] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Mar2025 19:01:16.240] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Mar2025 19:01:16.243] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[29Mar2025 19:01:16.243] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[29Mar2025 19:01:16.307] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[29Mar2025 19:01:16.307] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[29Mar2025 19:01:16.308] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[29Mar2025 19:01:16.308] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[29Mar2025 19:01:16.309] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/paaapule3/servidor_minecraft/./config/infernalmobs.cfg
-[29Mar2025 19:01:16.310] [Server thread/WARN] [ModernFix/]: Dedicated server took 34.259 seconds to load
-[29Mar2025 19:04:31.699] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[29Mar2025 19:04:33.820] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[29Mar2025 19:04:33.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:59211] logged in with entity id 521 at (-31382.810861502647, 111.40745997428894, -9294.408053913223)
-[29Mar2025 19:04:34.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
-[29Mar2025 19:04:34.110] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityFireDragon['ABICHUELA'/522, l='ServerLevel[world]', x=-31382.81, y=107.00, z=-9294.41] as it would cause deadlock
-[29Mar2025 19:05:34.599] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1978, -582], pos: MutableBlockPos{x=-31648, y=34, z=-9297}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[29Mar2025 19:05:34.599] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1978, -582], pos: MutableBlockPos{x=-31648, y=35, z=-9297}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[29Mar2025 19:06:48.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[29Mar2025 19:07:03.836] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4805, l='ServerLevel[world]', x=-32537.50, y=29.00, z=-8895.50]
-[29Mar2025 19:08:24.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[29Mar2025 19:08:24.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[29Mar2025 19:10:31.598] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-467, y=-24, z=-607}
-[29Mar2025 19:10:57.135] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2517, y=-43, z=-1515}
-[29Mar2025 19:10:57.136] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2517, y=-43, z=-1514}
-[29Mar2025 19:11:53.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
-[29Mar2025 19:14:44.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.0027205767892155563,0.0,10.455635542024538
-[29Mar2025 19:14:45.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.0027205767892155563,0.0,10.455635608899684
-[29Mar2025 19:14:45.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.00310923061624635,0.0,11.949297842256783
-[29Mar2025 19:14:45.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.003497884443277144,0.0,13.442960076201416
-[29Mar2025 19:14:45.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.0038865382703079376,0.0,14.93662231066628
-[29Mar2025 19:14:45.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.004275192097338731,0.0,16.43028454558771
-[29Mar2025 19:14:45.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.004663845924369525,0.0,17.923946780912956
-[29Mar2025 19:14:45.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.005052499751400319,0.0,19.417609016594724
-[29Mar2025 19:14:45.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.00310923061624635,0.0,11.949297876379205
-[29Mar2025 19:14:45.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.003497884443277144,0.0,13.442960112652145
-[29Mar2025 19:14:48.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.0027205767892155563,0.0,10.455635668387913
-[29Mar2025 19:15:17.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4281ms or 85 ticks behind
-[29Mar2025 19:15:17.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3054211482649407,-10.741617060254,1.932542471540728
-[29Mar2025 19:15:17.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3090738151295227,-12.014019812064461,1.9556546034000348
-[29Mar2025 19:15:17.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-13.317701436655597,1.9760395036992122
-[29Mar2025 19:15:17.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-14.648971027039295,1.9940189857643418
-[29Mar2025 19:15:17.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-16.004573203252036,2.009876888945655
-[29Mar2025 19:15:17.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-17.381636720165986,2.023863559550591
-[29Mar2025 19:15:17.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-18.596206742084092,2.0361998030239192
-[29Mar2025 19:15:17.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-19.667457501415868,2.047080369768082
-[29Mar2025 19:15:17.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-20.612300671146485,2.056677029635466
-[29Mar2025 19:15:17.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-21.627074744343204,2.065141283639605
-[29Mar2025 19:15:17.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-22.703527874397025,2.072606755671586
-[29Mar2025 19:15:17.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-23.6529595351045,2.079191302003892
-[29Mar2025 19:15:17.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-24.49035825984849,2.0849988718691748
-[29Mar2025 19:15:17.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-25.228943935072692,2.0901211484888336
-[29Mar2025 19:15:17.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-25.880376500620443,2.0946389964683476
-[29Mar2025 19:15:17.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-26.45494002343355,2.098623738385868
-[29Mar2025 19:15:17.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-26.961705050554713,2.102138280757572
-[29Mar2025 19:15:17.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-27.408671804475574,2.1052381071294803
-[29Mar2025 19:15:17.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-27.802896481433777,2.1052381071294803
-[29Mar2025 19:15:17.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-28.15060264651092,2.1052381071294803
-[29Mar2025 19:15:17.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-28.457279484108952,2.1052381071294803
-[29Mar2025 19:15:17.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-28.727768454870414,2.1052381071294803
-[29Mar2025 19:15:17.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-28.96633972708203,2.1052381071294803
-[29Mar2025 19:15:17.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.176759589172676,2.1052381071294803
-[29Mar2025 19:15:17.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.362349907536625,2.1052381071294803
-[29Mar2025 19:15:17.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.526040568333627,2.1052381071294803
-[29Mar2025 19:15:17.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.67041573115658,2.1052381071294803
-[29Mar2025 19:15:17.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.797754624766426,2.1052381071294803
-[29Mar2025 19:15:17.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-29.910067528930313,2.1052381071294803
-[29Mar2025 19:15:17.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.009127510402863,2.1052381071294803
-[29Mar2025 19:15:17.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.096498414061642,2.1052381071294803
-[29Mar2025 19:15:17.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.173559551088687,2.1052381071294803
-[29Mar2025 19:15:17.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.241527473946547,2.1052381071294803
-[29Mar2025 19:15:17.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.30147518190718,2.1052381071294803
-[29Mar2025 19:15:17.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.35434906032846,2.1052381071294803
-[29Mar2025 19:15:17.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.40098382109602,2.1052381071294803
-[29Mar2025 19:15:17.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.44211568009301,2.1052381071294803
-[29Mar2025 19:15:17.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.478393979728352,2.1052381071294803
-[29Mar2025 19:15:17.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.510391440006728,2.1052381071294803
-[29Mar2025 19:15:17.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.53861319997226,2.1052381071294803
-[29Mar2025 19:15:17.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.563504792261853,2.1052381071294803
-[29Mar2025 19:15:17.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.585459176661274,2.1052381071294803
-[29Mar2025 19:15:17.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.604822943701564,2.1052381071294803
-[29Mar2025 19:15:17.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.621901786231106,2.1052381071294803
-[29Mar2025 19:15:17.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.63696532534216,2.1052381071294803
-[29Mar2025 19:15:17.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.650251366838106,2.1052381071294803
-[29Mar2025 19:15:17.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.66196965543753,2.1052381071294803
-[29Mar2025 19:15:17.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.672305185982225,2.1052381071294803
-[29Mar2025 19:15:17.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.681421123922647,2.1052381071294803
-[29Mar2025 19:15:17.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.689461381186092,2.1052381071294803
-[29Mar2025 19:15:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.696552888092455,2.1052381071294803
-[29Mar2025 19:15:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.702807597183863,2.1052381071294803
-[29Mar2025 19:15:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.708324250602487,2.1052381071294803
-[29Mar2025 19:15:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.713189938917722,2.1052381071294803
-[29Mar2025 19:15:17.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.717481476011756,2.1052381071294803
-[29Mar2025 19:15:17.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.721266611728694,2.1052381071294803
-[29Mar2025 19:15:17.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.3122954673053755,-30.724605101431038,2.1052381071294803
-[29Mar2025 19:15:17.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.011015664693331928,-21.219927218406227,0.1988998667220585
-[29Mar2025 19:15:17.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.011015664693331928,-21.219927218406227,0.1988998667220585
-[29Mar2025 19:15:17.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ABICHUELA (vehicle of Sl44tx) moved too quickly! 0.011015664693331928,-21.219927218406227,0.1988998667220585
-[29Mar2025 19:16:47.530] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
-[29Mar2025 19:16:50.913] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[29Mar2025 19:16:50.913] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[29Mar2025 19:16:53.160] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID a4b6f5f9-9e30-4cd7-86f5-a0db707a573a
-[29Mar2025 19:16:53.189] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e66364f9-f93d-48f8-a41a-37c74603e70f
-[29Mar2025 19:16:53.189] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/paaapule3/servidor_minecraft/./crash-reports/crash-2025-03-29_19.16.53-server.txt
+[29Mar2025 19:18:18.511] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[29Mar2025 19:18:18.734] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Mar2025 19:18:18.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[29Mar2025 19:18:18.732] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[29Mar2025 19:18:18.737] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[29Mar2025 19:18:18.738] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[29Mar2025 19:18:18.739] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[29Mar2025 19:18:18.745] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[29Mar2025 19:18:18.746] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[29Mar2025 19:18:18.747] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[29Mar2025 19:18:19.024] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Mar2025 19:18:19.025] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Mar2025 19:18:19.288] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[29Mar2025 19:18:19.289] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[29Mar2025 19:18:19.289] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
+[29Mar2025 19:18:19.559] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Mar2025 19:18:19.602] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Mar2025 19:18:21.878] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[29Mar2025 19:18:22.441] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[29Mar2025 19:18:22.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[29Mar2025 19:18:22.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Mar2025 19:18:22.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Mar2025 19:18:22.663] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Mar2025 19:18:22.702] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[29Mar2025 19:18:22.703] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[29Mar2025 19:18:22.703] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[29Mar2025 19:18:22.704] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[29Mar2025 19:18:22.787] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[29Mar2025 19:18:22.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[29Mar2025 19:18:22.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[29Mar2025 19:18:22.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.29 Target: null
+[29Mar2025 19:18:22.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Mar2025 19:18:22.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[29Mar2025 19:18:22.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2025 19:18:23.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29Mar2025 19:18:23.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[29Mar2025 19:18:23.200] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[29Mar2025 19:18:23.209] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[29Mar2025 19:18:23.221] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[29Mar2025 19:18:23.221] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[29Mar2025 19:18:23.223] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[29Mar2025 19:18:23.250] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[29Mar2025 19:18:23.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[29Mar2025 19:18:23.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[29Mar2025 19:18:23.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
+[29Mar2025 19:18:23.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[29Mar2025 19:18:23.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[29Mar2025 19:18:23.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Mar2025 19:18:23.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 8.9.2
+[29Mar2025 19:18:23.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Mar2025 19:18:23.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
+[29Mar2025 19:18:23.847] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2025 19:18:23.958] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[29Mar2025 19:18:24.258] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/assets/.mcassetsroot' uses unexpected schema
+[29Mar2025 19:18:24.258] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/paaapule3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23189!/data/.mcassetsroot' uses unexpected schema
+[29Mar2025 19:18:26.577] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29Mar2025 19:18:26.662] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[29Mar2025 19:18:27.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[29Mar2025 19:18:27.744] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2330 advancements
+[29Mar2025 19:18:27.748] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[29Mar2025 19:18:27.749] [main/INFO] [Dungeon Crawl/]: Loading data...
+[29Mar2025 19:18:28.046] [main/INFO] [Dungeon Crawl/]: Done.
+[29Mar2025 19:18:28.062] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[29Mar2025 19:18:28.066] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[29Mar2025 19:18:28.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Mar2025 19:18:28.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2025 19:18:28.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2025 19:18:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2025 19:18:28.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2025 19:18:28.452] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Mar2025 19:18:28.556] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 19:18:28.564] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[29Mar2025 19:18:28.730] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[29Mar2025 19:18:28.730] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[29Mar2025 19:18:28.731] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[29Mar2025 19:18:28.731] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[29Mar2025 19:18:28.732] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[29Mar2025 19:18:28.733] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[29Mar2025 19:18:28.733] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[29Mar2025 19:18:28.734] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[29Mar2025 19:18:28.734] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[29Mar2025 19:18:28.734] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[29Mar2025 19:18:28.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2025 19:18:29.529] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[29Mar2025 19:18:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2025 19:18:29.566] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 36 ms
+[29Mar2025 19:18:29.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.011s)! For help, type "help"
+[29Mar2025 19:18:29.617] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Mar2025 19:18:29.649] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[29Mar2025 19:18:29.652] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[29Mar2025 19:18:29.652] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[29Mar2025 19:18:29.663] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[29Mar2025 19:18:29.664] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[29Mar2025 19:18:29.664] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[29Mar2025 19:18:29.664] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[29Mar2025 19:18:29.665] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/paaapule3/servidor_minecraft/./config/infernalmobs.cfg
+[29Mar2025 19:18:29.666] [Server thread/WARN] [ModernFix/]: Dedicated server took 24.935 seconds to load
+[29Mar2025 19:18:46.549] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
+[29Mar2025 19:18:48.323] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Mar2025 19:18:48.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:33431] logged in with entity id 521 at (-4833.0, 94.0, -5878.0)
+[29Mar2025 19:18:48.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
+[29Mar2025 19:19:48.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[29Mar2025 19:20:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]
+[29Mar2025 19:20:53.851] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-11245, y=5, z=-10715}
+[29Mar2025 19:20:53.851] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-11245, y=5, z=-10714}
+[29Mar2025 19:22:08.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved too quickly! 0.6530792159937846,0.0,-10.868891667829303
+[29Mar2025 19:23:36.254] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:36.278] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:36.288] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:36.315] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:36.385] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:36.429] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[29Mar2025 19:23:40.598] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=-40, z=-749}
+[29Mar2025 19:23:40.599] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-37, z=-750}
+[29Mar2025 19:23:40.599] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-220, y=-37, z=-750}
+[29Mar2025 19:23:40.599] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-214, y=-37, z=-750}
+[29Mar2025 19:23:40.600] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-37, z=-751}
+[29Mar2025 19:23:40.600] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-212, y=-37, z=-750}
+[29Mar2025 19:23:40.600] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-37, z=-749}
+[29Mar2025 19:23:40.600] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-37, z=-750}
+[29Mar2025 19:23:40.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=-40, z=-750}
+[29Mar2025 19:23:40.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-216, y=-40, z=-750}
+[29Mar2025 19:23:40.675] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[29Mar2025 19:23:40.675] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[29Mar2025 19:23:40.676] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[29Mar2025 19:23:40.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-593}
+[29Mar2025 19:23:40.697] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[29Mar2025 19:23:40.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[29Mar2025 19:23:42.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[29Mar2025 19:23:42.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[29Mar2025 19:23:43.124] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=-40, z=-752}
+[29Mar2025 19:23:43.180] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[29Mar2025 19:23:43.181] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[29Mar2025 19:23:43.218] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[29Mar2025 19:23:43.218] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[29Mar2025 19:24:24.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Spectator Mode]
+[29Mar2025 19:24:54.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx moved too quickly! 4.836435262903251,0.0,-9.436504386834713
+[29Mar2025 19:24:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]
+[29Mar2025 19:25:52.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22891ms or 457 ticks behind
+[29Mar2025 19:26:28.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21557ms or 431 ticks behind
+[29Mar2025 19:27:02.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18225ms or 364 ticks behind
+[29Mar2025 19:27:35.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sl44tx lost connection: Disconnected
+[29Mar2025 19:27:35.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx left the game
+[29Mar2025 19:28:58.370] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sl44tx is 8a1edb0c-bf68-4e38-a47f-c66e8ed55861
+[29Mar2025 19:29:00.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sl44tx[/127.240.79.53:34503] logged in with entity id 10933 at (-11054.5, 66.0, -11170.5)
+[29Mar2025 19:29:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sl44tx joined the game
+[29Mar2025 19:30:56.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20803ms or 416 ticks behind
+[29Mar2025 19:35:41.228] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -29976 -2 -18999 in 3s
+[29Mar2025 19:51:00.691] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:cave/infested_caves took 29 ms
+[29Mar2025 19:51:08.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Teleported Sl44tx to -33145.500000, -1.000000, -8432.500000]
+[29Mar2025 19:51:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Spectator Mode]
+[29Mar2025 19:51:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set own game mode to Creative Mode]
+[29Mar2025 19:51:41.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Set the time to 1000]
+[29Mar2025 19:52:31.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20964ms or 419 ticks behind
+[29Mar2025 19:52:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Teleported Sl44tx to -33145.500000, -1.000000, -8432.500000]
+[29Mar2025 19:53:09.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20590ms or 411 ticks behind
+[29Mar2025 19:54:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sl44tx: Stopping the server]
+[29Mar2025 19:54:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 19:54:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 19:54:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 19:54:26.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 19:54:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 19:54:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 19:54:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 19:54:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 19:54:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 19:54:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Mar2025 19:54:26.823] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
