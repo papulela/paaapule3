@@ -5881,15 +5881,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "has_vine": "2025-03-28 23:46:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-03-29 00:07:52 +0000"
+      "coded_trigger": "2025-03-28 22:50:55 +0000"
     },
     "done": true
   },
@@ -5899,21 +5893,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+  "tombstone:adventure/create_decorative_grave": {
     "criteria": {
-      "has_vine": "2025-03-28 23:46:40 +0000"
+      "has_decorative_grave": "2025-03-28 23:01:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-03-28 23:05:11 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-03-28 23:12:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-03-28 23:01:51 +0000"
     },
     "done": true
   },
@@ -5929,15 +5923,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/almost_unkillable": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
-      "coded_trigger": "2025-03-28 22:50:55 +0000"
+      "has_vine": "2025-03-28 23:46:40 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_strange_tablet": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
-      "has_strange_tablet": "2025-03-28 23:05:11 +0000"
+      "has_vine": "2025-03-28 23:46:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-03-29 00:07:52 +0000"
     },
     "done": true
   },
